@@ -1,0 +1,72 @@
+4
+175
+Normal
+Soldier
+6
+Low-light Vision
+58
+20
+17
+16
+16
+8
+10
+18
+15
+10
+10
+15
+Constitution
+Constitution
+Dexterity
+Charisma
+11
+9
+7
+//skills//
+Athletics
+Endurance
+//attack powers//
+Bite
+Standard
+At-will
+0
+Melee
+0
+2
+10
+AC
+1
+d6
+6
+Normal
+
+Serpentine Coils
+Standard
+At-will
+0
+Melee
+0
+1
+9
+Reflex
+1
+d8
+5
+Normal
+Hit: Target is Grabbed
+Constrict
+Minor
+At-will
+0
+Melee
+0
+1
+9
+Fortitude
+2
+d6
+11
+Normal
+Requires grabbed enemy
+//other powers//

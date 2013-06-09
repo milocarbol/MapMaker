@@ -1,0 +1,48 @@
+2
+62
+Normal
+Brute
+3
+Low-light Vision
+23
+14
+15
+14
+14
+6
+10
+17
+14
+10
+10
+14
+Constitution
+Constitution
+Dexterity
+Charisma
+5
+3
+1
+//skills//
+Endurance
+//attack powers//
+Smash
+Standard
+At-will
+0
+Melee
+0
+1
+5
+AC
+1
+d4
+4
+Normal
+Smash!
+//other powers//
+Undead Influence
+Immediate
+At-will
+0
+Enemies within 4 take -2 attack and -2 movement.

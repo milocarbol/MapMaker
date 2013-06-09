@@ -1,0 +1,14 @@
+Wizard's Tower
+University
+Cathedral
+Temple
+Grand Temple
+Library
+Arcane Library
+Large Graveyard
+Hunters' Guild
+Mercenary Outpost
+Merchants' Guild
+Thieves' Guild
+Assassins' Guild
+Hospital

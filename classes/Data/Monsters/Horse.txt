@@ -1,0 +1,48 @@
+1
+100
+Normal
+Brute
+1
+Low-light Vision
+36
+15
+15
+13
+10
+10
+19
+16
+13
+2
+11
+9
+Strength
+Strength
+Dexterity
+Wisdom
+6
+4
+2
+//skills//
+Perception
+//attack powers//
+Kick
+Standard
+At-will
+0
+Melee
+0
+1
+6
+AC
+1
+d6
+4
+Normal
+
+//other powers//
+Trample
+Move
+At-will
+0
++4 vs REF; 1d6+4 damage; target falls prone

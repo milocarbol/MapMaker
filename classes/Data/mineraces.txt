@@ -1,0 +1,5 @@
+Human
+Dwarf
+Half-Orc
+Goliath
+Minotaur

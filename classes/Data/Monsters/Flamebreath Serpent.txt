@@ -1,0 +1,59 @@
+3
+150
+Normal
+Controller
+4
+Low-light Vision
+46
+17
+15
+16
+15
+7
+10
+14
+17
+10
+10
+14
+Dexterity
+Constitution
+Dexterity
+Charisma
+8
+7
+5
+//skills//
+Athletics
+Stealth
+Perception
+//attack powers//
+Bite
+Standard
+At-will
+0
+Melee
+0
+2
+8
+AC
+1
+d6
+6
+Normal
+
+Flame Breath
+Standard
+At-will
+0
+Close Blast
+2
+0
+5
+Reflex
+1
+d8
+6
+Fire
+Ongoing Fire damage 5 (save ends)
+//other powers//

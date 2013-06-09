@@ -1,0 +1,58 @@
+1
+50
+Normal
+Brute
+1
+Normal
+15
+13
+14
+13
+13
+5
+16
+10
+13
+10
+10
+13
+Strength
+Strength
+Dexterity
+Charisma
+4
+2
+0
+//skills//
+Athletics
+Streetwise
+//attack powers//
+Power Strike
+Standard
+At-will
+0
+Melee
+0
+1
+2
+Fortitude
+1
+d4
+2
+Normal
+Hit: Target is pushed 1. Street Thug takes a -2 penalty to all defences until the start of his next turn.
+Melee Weapon
+Standard
+At-will
+0
+Melee
+0
+1
+4
+AC
+1
+d4
+2
+Normal
+
+//other powers//

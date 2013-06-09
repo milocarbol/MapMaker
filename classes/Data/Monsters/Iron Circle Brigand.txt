@@ -1,0 +1,76 @@
+1
+100
+Normal
+Soldier
+3
+Normal
+28
+17
+14
+13
+12
+5
+16
+12
+22
+9
+10
+9
+Strength
+Strength
+Dexterity
+Wisdom
+6
+4
+4
+//skills//
+
+//attack powers//
+Scimitar
+Standard
+At-will
+0
+Melee
+0
+1
+6
+AC
+1
+d8
+3
+Normal
+
+Drive Back
+Standard
+At-will
+0
+Melee
+0
+1
+6
+AC
+1
+d8
+3
+Normal
+Target pushed 2; Brigand shifts into place
+Crossbow
+Standard
+At-will
+0
+Ranged
+30
+0
+6
+AC
+1
+d8
+1
+Normal
+
+//other powers//
+Relentless Assault
+Minor
+At-will
+0
+When adjacent enemy doesn't attack Brigand, they take 3 damage

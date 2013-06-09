@@ -1,0 +1,87 @@
+5
+400
+Elite
+Soldier
+4
+Normal
+136
+23
+20
+17
+17
+6
+18
+10
+10
+15
+10
+15
+Strength
+Strength
+Intelligence
+Charisma
+12
+10
+8
+//skills//
+Athletics
+Intimidate
+//attack powers//
+Sword
+Standard
+At-will
+0
+Melee
+0
+1
+12
+AC
+2
+d6
+6
+Normal
+Target is marked
+Mighty Swing
+Standard
+Encounter
+0
+Melee
+0
+1
+12
+AC
+2
+d6
+12
+Normal
+Target is dazed, Keltharion takes -2 to all defences
+Shield Bash
+Standard
+Encounter
+0
+Melee
+0
+1
+10
+Fortitude
+1
+d8
+6
+Normal
+Pushed 2, knocked prone, dazed until end of Keltharion's next turn
+//other powers//
+Vengeful Blow
+Immediate
+Encounter
+0
+Trigger: Bloodied for the first time. Recharge and use Shield Bash
+Intercept
+Immediate
+At-will
+0
+Trigger: Adjacent ally is targeted. Use Sword against attacker.
+Resilience
+Immediate
+At-will
+0
++2 to saving throws

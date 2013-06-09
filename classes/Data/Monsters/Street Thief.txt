@@ -1,0 +1,60 @@
+1
+50
+Normal
+Lurker
+7
+Normal
+11
+15
+13
+14
+13
+6
+13
+10
+16
+10
+10
+13
+Dexterity
+Strength
+Dexterity
+Charisma
+6
+4
+2
+//skills//
+Acrobatics
+Athletics
+Stealth
+Thievery
+//attack powers//
+Flurry
+Standard
+At-will
+0
+Melee
+0
+1
+6
+AC
+1
+d4
+2
+Normal
+Hit: Target takes a -2 penalty to attack rolls until the end of his next turn.
+Precise Stab
+Standard
+At-will
+0
+Melee
+0
+1
+6
+AC
+1
+d6
+2
+Normal
+Combat advantage required but grants +4 attack instead of +2
+//other powers//

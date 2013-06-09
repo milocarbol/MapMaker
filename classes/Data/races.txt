@@ -1,0 +1,13 @@
+Human
+Dwarf
+Half-Elf
+Tiefling
+Half-Orc
+Dragonborn
+Githzerai
+Eladrin
+Elf
+Gnome
+Goliath
+Minotaur
+Halfling

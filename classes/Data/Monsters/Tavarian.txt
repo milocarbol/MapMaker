@@ -1,0 +1,64 @@
+1
+50
+Normal
+Brute
+1
+Darkvision
+15
+13
+14
+13
+13
+6
+16
+10
+13
+10
+13
+10
+Strength
+Strength
+Dexterity
+Wisdom
+4
+2
+0
+//skills//
+Athletics
+Stealth
+Perception
+//attack powers//
+Bite
+Standard
+At-will
+0
+Melee
+0
+1
+4
+AC
+1
+d4
+4
+Normal
+Requires grabbed enemy
+Claw
+Standard
+At-will
+0
+Melee
+0
+1
+4
+AC
+1
+d4
+2
+Normal
+Hit: Make a Grab attack
+//other powers//
+Grab
+Standard
+At-will
+0
++2 vs Fortitude: Target is grabbed

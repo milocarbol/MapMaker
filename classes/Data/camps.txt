@@ -1,0 +1,14 @@
+Bandits' Camp
+Bandits' Cave
+Travellers' Camp
+Hunters' Camp
+Soldiers' Camp
+Merchants' Camp
+Farm
+Echo Mine
+Silver Mine
+Gold Mine
+Gem Mine
+Monastery
+Temple
+Shrine

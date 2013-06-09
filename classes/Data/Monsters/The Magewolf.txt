@@ -1,0 +1,96 @@
+3
+300
+Elite
+Controller
+1
+Low-light Vision
+104
+19
+15
+17
+18
+7
+14
+10
+10
+14
+10
+17
+Charisma
+Strength
+Intelligence
+Charisma
+8
+7
+5
+//skills//
+Athletics
+Arcana
+//attack powers//
+Claw
+Standard
+At-will
+0
+Melee
+0
+1
+8
+AC
+1
+d8
+4
+Normal
+
+Fireball
+Standard
+Encounter
+0
+Burst
+3
+10
+5
+Reflex
+1
+d8
+8
+Fire
+Ongoing Fire damage 5
+Elemental Blast
+Standard
+At-will
+0
+Ranged
+0
+10
+7
+Reflex
+1
+d8
+5
+Fire
+1d4: 1-Fire, 2-Cold, 3-Acid, 4-Radiant
+Terrifying Howl
+Standard
+Encounter
+0
+Close Burst
+2
+0
+5
+Will
+1
+d6
+5
+Psychic
+Target is dazed until the end of the Magewolf's next turn
+//other powers//
+Endless Power
+Minor
+Recharge
+6
+Regain the use of an encounter power
+Resilience
+Immediate
+At-will
+0
++2 to saving throws

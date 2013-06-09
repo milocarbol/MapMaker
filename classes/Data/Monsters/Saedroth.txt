@@ -1,0 +1,58 @@
+3
+75
+Normal
+Artillery
+1
+Normal
+19
+15
+15
+15
+16
+6
+10
+14
+10
+14
+10
+17
+Charisma
+Constitution
+Intelligence
+Charisma
+10
+8
+6
+//skills//
+Arcana
+Bluff
+//attack powers//
+Fireball
+Standard
+At-will
+0
+Ranged
+0
+10
+8
+Reflex
+1
+d4
+5
+Fire
+FIRE!
+Mental Rend
+Standard
+At-will
+0
+Close Burst
+5
+0
+6
+Will
+1
+d4
+2
+Psychic
+Hit: Enemy is dazed and takes a -2 penalty to attack until the end of his next turn
+//other powers//

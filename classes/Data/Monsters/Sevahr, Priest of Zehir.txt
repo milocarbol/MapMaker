@@ -1,0 +1,85 @@
+7
+600
+Elite
+Artillery
+3
+Low-light Vision
+160
+19
+19
+21
+22
+6
+10
+16
+10
+16
+10
+19
+Charisma
+Constitution
+Intelligence
+Charisma
+14
+12
+10
+//skills//
+Arcana
+Diplomacy
+Heal
+Insight
+Religion
+//attack powers//
+Spell Quash
+Immediate
+At-will
+0
+Ranged
+0
+20
+12
+Will
+2
+d6
+4
+Psychic
+Interrupt: Cancel target spell that does not include Sevahr as its target
+Insidious Poison
+Standard
+At-will
+0
+Ranged
+0
+20
+12
+Fortitude
+2
+d8
+6
+Poison
+
+Serpent Storm
+Standard
+Encounter
+0
+Ranged
+0
+20
+12
+Fortitude
+2
+d8
+14
+Poison
+Recharges when Sevahr is first bloodied
+//other powers//
+Call the Serpents
+Standard
+Encounter
+0
+Summon 4 Serpent Minions around Sevahr
+Resilience
+Immediate
+At-will
+0
++2 to saving throws

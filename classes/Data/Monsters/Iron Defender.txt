@@ -1,0 +1,53 @@
+3
+150
+Normal
+Soldier
+5
+Darkvision
+47
+19
+16
+15
+13
+6
+16
+15
+15
+4
+11
+8
+Strength
+Strength
+Dexterity
+Wisdom
+8
+6
+6
+//skills//
+
+//attack powers//
+Bite
+Standard
+At-will
+0
+Melee
+0
+1
+8
+AC
+1
+d8
+6
+Normal
+
+//other powers//
+Pursue and Attack
+Immediate
+At-will
+0
+Shift 1 before and after making an opportunity attack
+Guard Creature
+Immediate
+At-will
+0
+Attack enemy who attacks guarded creature

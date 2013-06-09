@@ -1,0 +1,48 @@
+3
+75
+Normal
+Brute
+3
+Normal
+57
+15
+15
+15
+15
+6
+10
+17
+14
+10
+14
+10
+Constitution
+Constitution
+Dexterity
+Wisdom
+6
+4
+2
+//skills//
+Endurance
+//attack powers//
+Melee Weapon
+Standard
+At-will
+0
+Melee
+0
+1
+6
+AC
+1
+d4
+4
+Normal
+Swing!
+//other powers//
+Leadership
+Minor
+Encounter
+0
+Allies gain +2 attack until start of next turn.

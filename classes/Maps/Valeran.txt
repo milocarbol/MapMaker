@@ -1,0 +1,402 @@
+watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr
+watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr
+watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr
+watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,snow,watr,watr,watr,watr,watr,watr,watr,watr,watr
+watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,snow,snow,snow,snow,snow,snow,snow,snow,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,snow,snow,snow,snow,snow,snow,snow,snow,watr,watr,watr,watr,watr
+watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,watr,watr,watr,watr,watr,watr
+watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,mntn,watr,watr,watr,watr,snow,snow,snow,snow,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,watr,watr,watr,watr,watr,watr,watr
+watr,watr,watr,watr,watr,watr,watr,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,mntn,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,watr,watr,watr,watr,watr,watr,watr,watr
+watr,watr,watr,watr,watr,watr,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,mntn,mntn,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,watr,watr,watr,watr,watr,watr,watr,watr,watr
+watr,watr,watr,watr,watr,watr,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,mntn,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,watr,watr,watr,watr,watr,watr,watr,watr,watr
+watr,watr,watr,watr,watr,watr,watr,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,gras,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr
+watr,watr,watr,watr,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,mntn,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr
+watr,watr,watr,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,mntn,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr
+watr,watr,watr,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,mntn,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr
+watr,watr,watr,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,snow,city,snow,snow,snow,snow,snow,snow,snow,mntn,gras,snow,snow,snow,gras,gras,gras,gras,gras,gras,gras,gras,snow,snow,snow,snow,snow,snow,gras,gras,gras,gras,gras,gras,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr
+watr,watr,watr,snow,snow,snow,snow,snow,snow,snow,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,mntn,mntn,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr
+watr,watr,watr,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,mntn,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr
+watr,watr,watr,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,mntn,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr
+watr,watr,watr,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,mntn,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr
+watr,watr,watr,watr,gras,gras,gras,gras,gras,gras,gras,gras,gras,city,gras,gras,gras,gras,gras,gras,gras,gras,mntn,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr
+watr,watr,watr,watr,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,city,gras,gras,gras,mntn,mntn,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr
+watr,watr,watr,watr,watr,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,fort,mntn,gras,gras,fort,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr
+watr,watr,watr,watr,watr,watr,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,fort,gras,mntn,gras,mntn,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr
+watr,watr,watr,watr,watr,watr,watr,watr,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr
+watr,watr,watr,watr,watr,watr,watr,watr,watr,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,watr,watr,watr,watr,watr,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr
+watr,watr,watr,watr,watr,watr,watr,watr,watr,gras,gras,gras,gras,gras,gras,gras,city,gras,gras,gras,watr,watr,watr,watr,watr,watr,watr,watr,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr
+watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,gras,gras,gras,gras,gras,gras,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,gras,gras,gras,gras,gras,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr
+watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,gras,gras,gras,gras,gras,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr
+watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr
+watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr
+//locationdata//
+14
+14
+Tarum
+Dwarf
+Hospital, Temple – Avandra, Temple – Erathis, Temple – Phor
+Mangy Minotaur
+Grungy
+Medium
+Ander
+Tiefling
+Hungry Halfling
+Wealthy
+Medium
+Vislei
+Halfling
+
+
+
+
+
+
+
+
+
+
+Sekhar
+Lenar
+Dwarf
+Cartographer
+Aldruhn
+Dwarf
+Spy
+Gerrick
+Dwarf
+Servant
+Verna
+Dragonborn
+Fisherman
+Sekhar
+Tiefling
+Fruitier
+Desecrated temple
+Assassin
+Monster wandering in the forest
+Intercept cultist army
+Cursed ring
+Infiltrate party
+Infested mine
+Bandit sprung from jail
+
+Poisoned well
+false
+true
+19
+13
+Valdrekh
+Human
+Library – Medium, Hunters' Guild, Mercenary Outpost
+Shield of Gold
+Grungy
+Large
+Tirion
+Goliath
+Sword and Shield
+Rough
+Medium
+Baelid
+Half-Orc
+Shield of Gold
+Wealthy
+Small
+Anarenen
+Elf
+
+
+
+
+
+Teres
+Arryn
+Human
+Bowyer
+Kelen
+Human
+Banker
+Orianna
+Human
+Gardener
+Thog
+Dwarf
+Builder
+Noss
+Gnome
+Candlestickmaker
+Desecrated temple
+Painter/Warlock is trapping people in his painting, must enter painting to destroy the magic source
+Smuggle skooma into city
+Arrested for no reason, forced to fight in the gladiator arena
+Lost armour
+Escaped monster from noble's menagerie
+Kill the monster
+Everyone is having nightmares
+
+Assassin
+false
+true
+20
+16
+Sentinel
+Dwarf
+Temple – Avandra, Cathedral
+Broken Table
+Wealthy
+Medium
+Folgrim
+Goliath
+Seven Serpents
+Wealthy
+Medium
+Allimir
+Gnome
+King's Ale
+Wealthy
+Large
+Earana
+Eladrin
+Wolf's Head
+Rough
+Large
+Baenlin
+Minotaur
+Ivgrizt
+Shalrida
+Dwarf
+Brewer
+Nadaar
+Dwarf
+Candlestickmaker
+Morthos
+Dwarf
+Bowyer
+Tanara
+Half-Orc
+Brewer
+Mankar
+Tiefling
+Prisoner
+Mysterious door has appeared in the middle of the city
+Hidden tunnel in house
+Rescue son
+Smuggle moonsugar into city
+Escort merchant
+Escort noble
+Hidden tunnel in house
+Desecrated temple
+
+Investigate magical ruins
+false
+true
+21
+20
+Fhaengarde
+Human
+Temple – Correllon
+Grumpy Goliath
+Wealthy
+Large
+Anruin
+Githzerai
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Angarion
+Torren
+Human
+Farmer
+Caric
+Human
+Fruitier
+Adaves
+Human
+Smuggler
+Kora
+Human
+Cook
+Allimir
+Half-Orc
+Apothecarist
+Deal with body
+Mysterious door has appeared in the middle of the city
+Smuggle skooma into city
+Hear strange chanting in ruins
+Rescue merchent
+Monsters raiding farm
+Assassin murders the NPC
+Lost sword
+
+Escort badguy to his trial
+false
+true
+21
+24
+Fort Blackstone
+Dwarf
+Temple – Melora
+Haunted Frog
+Wealthy
+Medium
+Joslyn
+Gnome
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Halm
+Orintar
+Dwarf
+Apothecarist
+Sil
+Dwarf
+Wizard
+Serran
+Dwarf
+Poacher
+Verna
+Dwarf
+Architect
+Arlen
+Human
+Cleric
+Defend the city
+Rescue noble
+Carnivorous plants are attacking a village
+Take this key and unlock this tomb
+Kidnapped children
+Childghostmonster in well
+Phantom ship sails down the river
+Hear strange chanting in graveyard
+Beggar on road
+Infested mine
+false
+true
+22
+18
+Gilzaron
+Dragonborn
+Temple – Ioun
+Sword and Shield
+Wealthy
+Large
+Ballor
+Halfling
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Andil
+Kitarra
+Dragonborn
+Doctor
+Seculdor
+Dragonborn
+Brewer
+Orianna
+Dragonborn
+Cleric
+Folgrim
+Dragonborn
+Fisherman
+Agronak
+Human
+Hunter
+Bandits on the road
+Everyone is having nightmares
+Desecrated temple
+Poisoned well
+Hidden tunnel in house
+Stalked by Kobolds
+PC being hunted as vengeance
+Eliminate enemy soldiers
+
+Mysterious lights in a marsh – big fireflies
+false
+true
+25
+16
+Ekhara
+Human
+Temple – Erathis, Thieves' Guild, Mercenary Outpost
+Talkative Tiefling
+Grungy
+Small
+Havandar
+Dragonborn
+Dragonborn's Deeds
+Grungy
+Medium
+Olorin
+Elf
+Cave
+Wealthy
+Small
+Canafen
+Human
+
+
+
+
+
+Durgoc
+Gildor
+Human
+Mercenary
+Hald
+Human
+Cartographer
+Joslyn
+Human
+Priest
+Tosh Raka
+Half-Elf
+Builder
+Gevin
+Human
+Architect
+Painter/Warlock is trapping people in his painting, must enter painting to destroy the magic source
+Eliminate enemy soldiers
+Deal with body
+Intercept cultist army
+Cursed ring
+Fog is spreading over a city, the houses that it touches are mysteriously empty
+Smuggle moonsugar into city
+Animals in a certain area are becoming mutated
+
+Spring a bandit from jail
+false
+true

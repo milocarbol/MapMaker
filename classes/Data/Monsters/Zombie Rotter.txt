@@ -1,0 +1,62 @@
+1
+50
+Normal
+Artillery
+1
+Low-light Vision
+14
+13
+14
+13
+13
+4
+10
+16
+13
+10
+10
+13
+Constitution
+Constitution
+Dexterity
+Charisma
+8
+6
+4
+//skills//
+Endurance
+//attack powers//
+Necrotic Breath
+Standard
+At-will
+0
+Ranged
+0
+10
+6
+Fortitude
+1
+d4
+2
+Necrotic
+All non-undead enemies between the zombie and the enemy are also targets
+Arm Thwack
+Standard
+At-will
+0
+Melee
+0
+1
+8
+AC
+1
+d4
+2
+Normal
+
+//other powers//
+Necrotic Influence
+Immediate
+At-will
+0
+All non-undead enemies within 3 take -1 movement and -2 attack

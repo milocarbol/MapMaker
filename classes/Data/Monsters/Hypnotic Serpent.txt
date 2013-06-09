@@ -1,0 +1,86 @@
+5
+200
+Normal
+Controller
+4
+Low-light Vision
+63
+19
+17
+17
+17
+7
+10
+15
+15
+10
+18
+10
+Wisdom
+Constitution
+Dexterity
+Wisdom
+10
+9
+7
+//skills//
+Athletics
+Perception
+//attack powers//
+Hypnotic Gaze
+Minor
+Recharge
+5+
+Ranged
+0
+5
+9
+Will
+1
+d8
+6
+Psychic
+Target is dominated until the end of the Serpent's next turn
+Bite
+Standard
+At-will
+0
+Melee
+0
+2
+10
+AC
+2
+d6
+6
+Normal
+
+Serpentine Coils
+Standard
+At-will
+0
+Melee
+0
+1
+9
+Reflex
+1
+d8
+6
+Normal
+Hit: Target is grabbed
+Constrict
+Minor
+At-will
+0
+Melee
+0
+1
+9
+Fortitude
+2
+d6
+9
+Normal
+Requires grabbed target
+//other powers//

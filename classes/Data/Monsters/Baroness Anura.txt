@@ -1,0 +1,88 @@
+15
+2400
+Elite
+Artillery
+13
+Normal
+280
+27
+27
+29
+31
+7
+16
+22
+22
+25
+22
+25
+Charisma
+Constitution
+Intelligence
+Charisma
+22
+20
+18
+//skills//
+Bluff
+Insight
+Stealth
+//attack powers//
+Mind Scream
+Standard
+At-will
+0
+Ranged
+0
+20
+20
+Will
+3
+d6
+13
+Psychic
+Target takes -2 to attack rolls until the end of Anura's next turn
+Snakeblade
+Standard
+At-will
+0
+Melee
+0
+1
+22
+AC
+3
+d6
+13
+Normal
+Encounter: Make a Mind Scream attack (recharges when bloodied)
+Bite
+Standard
+At-will
+0
+Melee
+0
+1
+20
+Fortitude
+2
+d6
+6
+Normal
+Ongoing Poison 5
+//other powers//
+Poisoned Domination
+Standard
+At-will
+0
+Ranged 20; +20 vs Will; dominated until end of Anura's next turn
+Bloody Scales
+Immediate
+At-will
+0
+When bloodied, Anura gains +2 Speed and +2 to all defences
+Resilience
+Immediate
+At-will
+0
++2 to saving throws

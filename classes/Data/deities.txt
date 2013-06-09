@@ -1,0 +1,21 @@
+//temple deities//
+Avandra
+Bahamut
+Corellon
+Erathis
+Ioun
+Kord
+Melora
+Moradin
+Pelor
+the Raven Queen
+Sehanine
+//end of temple deities//
+Asmodeus
+Bane
+Gruumsh
+Lolth
+Tiamat
+Torog
+Vecna
+Zehir

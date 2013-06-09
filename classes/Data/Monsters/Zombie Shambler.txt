@@ -1,0 +1,48 @@
+1
+50
+Normal
+Brute
+1
+Low-light Vision
+18
+13
+14
+13
+13
+4
+10
+16
+13
+10
+10
+13
+Constitution
+Constitution
+Dexterity
+Charisma
+4
+2
+0
+//skills//
+Endurance
+//attack powers//
+Arm Thwack
+Standard
+At-will
+0
+Melee
+0
+1
+4
+AC
+1
+d4
+2
+Normal
+
+//other powers//
+Undead Resilience
+Immediate
+At-will
+0
+Resist 5 all damage except Radiant; Vulnerable 5 Radiant

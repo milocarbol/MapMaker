@@ -1,0 +1,57 @@
+3
+150
+Normal
+Soldier
+5
+Normal
+47
+19
+16
+15
+14
+5
+16
+15
+14
+10
+11
+12
+Strength
+Strength
+Dexterity
+Charisma
+8
+6
+4
+//skills//
+Streetwise
+//attack powers//
+Sword
+Standard
+At-will
+0
+Melee
+0
+1
+8
+AC
+1
+8
+5
+Normal
+
+Powerful Strike
+Standard
+Recharge
+5+
+Melee
+0
+1
+8
+AC
+2
+8
+5
+Normal
+Target is knocked prone
+//other powers//

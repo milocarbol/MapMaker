@@ -1,0 +1,5 @@
+Human
+Eladrin
+Elf
+Gnome
+Halfling

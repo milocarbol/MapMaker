@@ -1,0 +1,64 @@
+3
+150
+Normal
+Lurker
+4
+Normal
+34
+17
+15
+16
+15
+6
+14
+10
+17
+10
+10
+14
+Dexterity
+Strength
+Dexterity
+Charisma
+8
+6
+4
+//skills//
+Acrobatics
+Stealth
+Perception
+//attack powers//
+Stab
+Standard
+At-will
+0
+Melee
+0
+1
+8
+AC
+1
+d8
+8
+Normal
++1d6 damage if the Assassin has combat advantage
+Poisoned Blade
+Standard
+Encounter
+0
+Melee
+0
+1
+8
+AC
+1
+d6
+5
+Poison
+Ongoing Poison damage 10 (save ends)
+//other powers//
+Stealth Master
+Immediate
+At-will
+0
+Soft cover is considered hard cover when trying to hit the assassin

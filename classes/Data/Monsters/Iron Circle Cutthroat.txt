@@ -1,0 +1,67 @@
+2
+125
+Normal
+Skirmisher
+6
+Normal
+37
+16
+12
+14
+12
+6
+12
+13
+17
+10
+11
+12
+Dexterity
+Constitution
+Dexterity
+Charisma
+7
+5
+5
+//skills//
+
+//attack powers//
+Short Sword
+Standard
+At-will
+0
+Melee
+0
+1
+7
+AC
+1
+d6
+4
+Normal
+2d6+4 if Cutthroat has CA
+Hand Crossbow
+Standard
+At-will
+0
+Ranged
+0
+20
+7
+AC
+1
+d6
+3
+Normal
+
+//other powers//
+Shadow Stride
+Move
+At-Will
+0
+Moving more than 3 grants concealment until the start of its next turn
+Slasher's Feint
+Minor
+At-Will
+0
+Melee 1; +5 vs REF; Cutthroat gains CA against target for this turn

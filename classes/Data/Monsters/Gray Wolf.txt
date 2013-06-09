@@ -1,0 +1,43 @@
+2
+125
+Normal
+Skirmisher
+6
+Low-light Vision
+38
+16
+14
+15
+13
+8
+13
+14
+16
+2
+13
+10
+Dexterity
+Constitution
+Dexterity
+Wisdom
+7
+5
+5
+//skills//
+Perception
+//attack powers//
+Bite
+Standard
+At-will
+0
+Melee
+0
+1
+7
+AC
+1
+d6
+3
+Normal
+2d6+3 against prone target. Target falls prone if wolf has CA
+//other powers//

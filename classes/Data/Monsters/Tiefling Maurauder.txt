@@ -1,0 +1,57 @@
+1
+50
+Normal
+Brute
+1
+Normal
+18
+13
+14
+13
+13
+6
+10
+16
+13
+10
+13
+10
+Constitution
+Constitution
+Dexterity
+Wisdom
+4
+2
+0
+//skills//
+Endurance
+//attack powers//
+Melee Weapon
+Standard
+At-will
+0
+Melee
+0
+1
+4
+AC
+1
+d4
+2
+Normal
+Swing!
+Mighty Swing
+Standard
+Encounter
+0
+Melee
+0
+1
+4
+AC
+1
+d4
+3
+Normal
+Target is pushed 1. If the target cannot move, it falls prone.
+//other powers//

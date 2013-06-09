@@ -1,0 +1,8776 @@
+watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr
+watr,watr,watr,watr,watr,gras,fort,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,ldmk,gras,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,ldmk,gras,watr,watr,watr,watr,watr,watr,watr,watr
+watr,watr,watr,watr,mntn,ldmk,watr,watr,watr,watr,gras,gras,gras,watr,watr,ldmk,gras,gras,gras,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,gras,watr,watr,watr,watr,watr,watr,watr,watr,ldmk,city,gras,ldmk,watr,watr,watr,watr,watr,watr,watr,watr,watr
+watr,watr,watr,ldmk,mntn,watr,watr,watr,watr,gras,tree,gras,gras,gras,gras,camp,gras,gras,gras,gras,watr,watr,watr,watr,watr,ldmk,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,gras,ldmk,gras,gras,gras,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr
+watr,watr,gras,gras,watr,watr,gras,gras,gras,tree,tree,tree,gras,gras,gras,gras,city,gras,gras,gras,gras,gras,gras,gras,watr,watr,watr,tree,tree,tree,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr
+watr,watr,fort,watr,watr,gras,gras,gras,town,gras,gras,tree,gras,mntn,camp,gras,gras,gras,gras,gras,gras,city,fort,gras,gras,watr,gras,city,tree,tree,tree,tree,tree,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,watr,gras,gras,watr,watr,watr,watr
+watr,watr,watr,watr,camp,gras,tree,tree,gras,gras,camp,gras,gras,gras,mntn,mntn,gras,gras,gras,gras,gras,gras,gras,gras,gras,watr,gras,gras,gras,tree,tree,tree,tree,tree,gras,town,gras,gras,gras,gras,gras,gras,gras,watr,watr,watr,watr,watr,watr,gras,gras,gras,gras,gras,gras,gras,gras,watr,watr,watr
+watr,watr,watr,gras,gras,gras,camp,tree,tree,gras,gras,fort,gras,gras,gras,mntn,mntn,gras,gras,watr,watr,watr,watr,watr,watr,watr,gras,gras,gras,gras,tree,tree,tree,tree,tree,gras,gras,town,gras,gras,gras,gras,gras,gras,gras,mntn,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,ldmk,gras
+watr,watr,watr,gras,gras,gras,tree,tree,gras,gras,gras,gras,camp,gras,gras,gras,mntn,gras,gras,watr,watr,gras,gras,gras,watr,gras,camp,gras,gras,gras,gras,tree,tree,tree,tree,tree,camp,gras,gras,gras,gras,gras,gras,gras,gras,mntn,gras,camp,gras,gras,gras,gras,camp,gras,gras,gras,gras,gras,gras,gras
+watr,watr,watr,gras,gras,city,gras,gras,camp,gras,gras,gras,gras,gras,gras,gras,mntn,gras,gras,gras,gras,gras,gras,gras,watr,gras,gras,ldmk,gras,gras,town,gras,tree,tree,tree,tree,gras,gras,gras,tree,tree,gras,town,gras,camp,gras,mntn,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras
+watr,watr,watr,gras,gras,gras,gras,gras,gras,gras,camp,gras,gras,gras,gras,camp,mntn,mntn,gras,gras,gras,gras,watr,watr,watr,gras,gras,gras,gras,fort,camp,gras,tree,tree,tree,tree,gras,gras,gras,gras,tree,gras,gras,gras,gras,gras,mntn,gras,gras,ldmk,gras,gras,gras,camp,gras,gras,gras,gras,gras,gras
+watr,watr,watr,watr,camp,gras,gras,city,gras,gras,gras,gras,gras,gras,gras,mntn,gras,gras,ldmk,gras,gras,mntn,watr,mntn,mntn,gras,camp,gras,gras,gras,gras,tree,tree,tree,tree,camp,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,mntn,mntn,mntn,mntn,mntn,gras,gras,gras,gras,gras,town,gras,gras,gras
+watr,watr,watr,watr,gras,gras,gras,gras,gras,gras,gras,camp,gras,mntn,mntn,gras,gras,gras,gras,gras,mntn,mntn,watr,mntn,mntn,gras,gras,city,gras,gras,tree,ldmk,tree,tree,tree,tree,gras,gras,gras,gras,gras,camp,city,gras,gras,camp,gras,mntn,gras,gras,mntn,gras,gras,gras,gras,gras,gras,gras,gras,gras
+watr,watr,watr,watr,watr,ldmk,gras,gras,gras,gras,gras,gras,gras,mntn,gras,mntn,town,gras,gras,gras,gras,mntn,mntn,fort,mntn,mntn,gras,gras,gras,tree,tree,tree,tree,ldmk,tree,city,tree,city,fort,gras,gras,gras,ldmk,gras,gras,gras,gras,mntn,gras,camp,gras,mntn,camp,gras,gras,mntn,mntn,gras,fort,gras
+watr,watr,watr,watr,watr,watr,watr,gras,camp,gras,gras,gras,mntn,gras,gras,ldmk,mntn,mntn,gras,gras,gras,gras,gras,gras,gras,mntn,mntn,gras,tree,city,tree,gras,gras,gras,tree,tree,camp,ldmk,gras,gras,gras,gras,gras,gras,gras,camp,gras,mntn,gras,gras,gras,mntn,watr,gras,gras,gras,gras,gras,gras,gras
+watr,watr,watr,watr,watr,watr,watr,tree,gras,gras,gras,gras,gras,gras,gras,mntn,gras,mntn,mntn,gras,gras,town,gras,gras,gras,gras,gras,gras,tree,tree,tree,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,city,gras,gras,camp,gras,gras,mntn,gras,town,gras,watr,watr,watr,watr,gras,gras,camp,gras,gras
+watr,watr,watr,watr,watr,ldmk,watr,tree,tree,gras,camp,gras,gras,gras,gras,mntn,gras,gras,city,mntn,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,camp,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,mntn,gras,watr,watr,watr,watr,watr,gras,city,gras,gras,gras,gras,gras
+watr,watr,watr,watr,watr,watr,watr,gras,gras,gras,gras,gras,gras,gras,mntn,mntn,gras,gras,gras,gras,mntn,mntn,gras,gras,gras,gras,city,gras,gras,gras,mntn,mntn,mntn,gras,gras,gras,gras,gras,gras,gras,gras,gras,camp,gras,mntn,mntn,gras,gras,watr,watr,watr,watr,gras,city,gras,gras,gras,gras,gras,gras
+watr,watr,watr,watr,watr,watr,gras,gras,camp,gras,gras,gras,gras,city,gras,mntn,gras,gras,gras,gras,gras,camp,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,mntn,mntn,mntn,gras,gras,gras,gras,mntn,watr,gras,gras,gras,mntn,gras,mntn,camp,gras,watr,watr,watr,gras,gras,gras,gras,gras,gras,gras,gras
+watr,watr,watr,watr,watr,watr,gras,gras,gras,gras,camp,gras,gras,gras,gras,gras,mntn,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,camp,gras,gras,mntn,mntn,watr,watr,mntn,mntn,gras,mntn,mntn,watr,watr,watr,camp,mntn,mntn,gras,mntn,gras,gras,gras,gras,gras,gras,camp,gras,gras,gras,gras,gras,gras
+watr,watr,watr,watr,watr,gras,gras,gras,city,gras,gras,gras,gras,gras,gras,fort,mntn,fort,gras,gras,gras,camp,gras,gras,gras,gras,camp,gras,gras,gras,town,gras,mntn,watr,gras,ldmk,mntn,ldmk,mntn,watr,watr,watr,watr,gras,gras,town,gras,mntn,gras,gras,ldmk,gras,gras,gras,gras,gras,gras,gras,camp,gras
+watr,watr,watr,watr,camp,gras,camp,gras,gras,city,gras,gras,gras,gras,gras,mntn,town,mntn,ldmk,gras,gras,gras,tree,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,watr,gras,gras,gras,gras,mntn,watr,watr,watr,gras,gras,gras,gras,gras,mntn,gras,gras,gras,gras,gras,tree,tree,tree,tree,gras,gras,gras
+watr,watr,tree,tree,tree,city,gras,camp,gras,gras,gras,fort,gras,gras,gras,gras,gras,mntn,watr,watr,gras,tree,tree,gras,town,gras,gras,gras,camp,gras,tree,tree,gras,watr,watr,gras,gras,gras,gras,watr,watr,town,gras,gras,gras,camp,gras,mntn,gras,gras,gras,gras,gras,tree,town,tree,town,gras,gras,gras
+watr,watr,tree,tree,tree,tree,tree,tree,town,tree,gras,gras,gras,tree,gras,gras,gras,mntn,mntn,watr,city,gras,gras,gras,gras,gras,tree,gras,gras,gras,tree,gras,gras,town,watr,watr,gras,ldmk,gras,watr,gras,gras,gras,gras,gras,gras,mntn,gras,town,gras,gras,gras,ldmk,tree,tree,tree,gras,gras,gras,gras
+watr,tree,tree,tree,tree,tree,tree,tree,tree,tree,tree,city,gras,tree,gras,town,gras,gras,ldmk,watr,watr,gras,gras,camp,gras,tree,tree,gras,ldmk,gras,gras,camp,gras,gras,gras,watr,watr,gras,gras,watr,gras,camp,gras,gras,camp,gras,mntn,gras,gras,gras,gras,gras,camp,gras,gras,camp,gras,gras,mntn,mntn
+watr,watr,town,tree,tree,tree,tree,tree,tree,tree,tree,gras,tree,tree,tree,gras,gras,gras,gras,city,watr,watr,town,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,watr,watr,town,watr,gras,city,camp,gras,gras,gras,mntn,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,mntn,gras
+watr,watr,watr,watr,watr,tree,ldmk,tree,tree,tree,tree,tree,tree,tree,tree,mntn,gras,gras,gras,gras,gras,watr,watr,gras,gras,camp,gras,gras,town,camp,gras,gras,gras,gras,gras,gras,gras,watr,watr,watr,gras,gras,camp,gras,gras,mntn,gras,city,gras,gras,gras,gras,gras,gras,gras,gras,gras,mntn,gras,gras
+watr,watr,watr,ldmk,watr,watr,watr,tree,city,tree,gras,tree,tree,mntn,mntn,mntn,mntn,mntn,mntn,mntn,gras,gras,watr,gras,gras,gras,gras,gras,gras,gras,gras,camp,camp,gras,town,gras,gras,gras,watr,watr,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,camp,gras,gras,gras,city,gras,mntn,gras,gras
+watr,watr,gras,gras,gras,gras,watr,watr,gras,gras,gras,tree,mntn,mntn,gras,gras,mntn,fort,gras,mntn,mntn,gras,watr,watr,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,town,gras,ldmk,watr,gras,gras,camp,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,camp
+watr,watr,watr,watr,ldmk,watr,watr,watr,watr,gras,gras,camp,gras,gras,gras,gras,mntn,gras,gras,gras,gras,gras,gras,watr,fort,gras,gras,gras,ldmk,fort,gras,ldmk,gras,gras,gras,gras,gras,gras,gras,watr,gras,gras,gras,gras,gras,gras,gras,ldmk,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras,gras
+//locationdata//
+1
+6
+Northfort
+Human
+Temple
+Broken Table
+Wealthy
+Small
+Alcaea
+Half-Elf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nelwin
+Anruin
+Human
+Carpenter
+Voryn
+Human
+Moneylender
+Baenlin
+Human
+Gravedigger
+Taris
+Human
+Wizard
+Arjhan
+Eladrin
+Brewer
+Cursed ring
+Escort noble
+Investigate magical ruins
+Rescue noble
+Lost armour
+Mysterious door has appeared in the middle of the city
+Arrested for no reason, forced to fight in the gladiator arena
+Hear strange chanting in graveyard
+Cursed ring
+Spring a bandit from jail
+false
+true
+1
+38
+Mushroom Tunnel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+true
+true
+1
+50
+Destroyed Temple of Erathis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+true
+true
+2
+5
+Howling Cave
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+true
+true
+2
+15
+Haunted Mine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+true
+true
+2
+47
+Twisting Halls
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+true
+true
+2
+48
+Sharan
+Human
+Thieves' Guild
+Hungry Halfling
+Wealthy
+Small
+Faric
+Tiefling
+Ship-on-the-Rocks
+Grungy
+Medium
+Nelwin
+Dragonborn
+Broken Table
+Rough
+Small
+Merandil
+Half-Elf
+Green Grass
+Rough
+Medium
+Furandil
+Githzerai
+Viscount(ess) Sevran
+Glarthir
+Human
+Herbalist
+Maenlorn
+Human
+Servant
+Shaienna
+Human
+Apothecarist
+Tarris
+Goliath
+Wizard
+Gilnor
+Elf
+Smuggler
+PC being hunted as vengeance
+Enchanted mirror – later on meet shadowy copies of themselves
+Track down thief
+Poisoned well
+Escort badguy to his trial
+Enchanted mirror – later on meet shadowy copies of themselves
+Missing worker
+Carnivorous plants are attacking a village
+Desecrated temple
+Hidden tunnel in house
+false
+true
+2
+50
+Shattered Keep
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+true
+true
+3
+3
+Ruins
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+true
+true
+3
+15
+Merchants' Camp
+Goliath
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Agronak
+Goliath
+Wizard
+Morgran
+Goliath
+Emissary
+Arlenfel
+Goliath
+Spy
+Ballor
+Goliath
+Prisoner
+Gildor
+Goliath
+Emissary
+Arrested for no reason, forced to fight in the gladiator arena
+Investigate magical ruins
+Stalked by Kobolds
+Enchanted mirror – later on meet shadowy copies of themselves
+Track down vampire – turns out everyone in target village is a vampire
+Rumours of weird summoning circle outside city
+Find the key to this treasure chest
+Lost sword
+Painter/Warlock is trapping people in his painting, must enter painting to destroy the magic source
+Smuggle assassin into city
+true
+true
+3
+25
+Tunnels of Despair
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+true
+true
+3
+46
+Barrows
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+true
+true
+4
+16
+Stonebridge
+Dwarf
+Thieves' Guild, Cathedral, Large Graveyard
+Toadstool
+Wealthy
+Small
+Noss
+Githzerai
+Tiny Tiefling
+Grungy
+Medium
+Amnon
+Half-Elf
+
+
+
+
+
+
+
+
+
+
+Councillor Kriv
+Caenlorn
+Dwarf
+Spy
+Allimir
+Dwarf
+Fruitier
+Shaienna
+Dwarf
+Farmer
+Kelen
+Gnome
+Architect
+Nerevar
+Tiefling
+Brewer
+Investigate magical ruins
+Disease
+Hidden tunnel in house
+Missing worker
+Deal with body
+Hear strange chanting in graveyard
+Lost dagger
+Raiding mercenaries
+Kidnapped children
+Reinforce the walls
+false
+true
+5
+2
+Fort Shield
+Half-Orc
+Thieves' Guild
+Fat Friar
+Grungy
+Large
+Sora
+Tiefling
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Areldur
+Gharen
+Half-Orc
+Wizard
+Naira
+Half-Orc
+Builder
+Lenar
+Half-Orc
+Candlestickmaker
+Teria
+Half-Orc
+Carpenter
+Mankar
+Eladrin
+Tanner
+Beggar on road
+Stolen sword
+Deal with body
+Hear strange chanting in ruins
+Eliminate enemy soldiers
+Defend the city
+Beggar on road
+Wizard has accidentally created a portal and been sucked into it
+Raiding mercenaries
+Rescue son
+false
+true
+5
+8
+Silord
+Half-Orc
+
+Beef and Brew
+Rough
+Large
+Seculdor
+Tiefling
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Merandil
+Half-Orc
+Farmer
+Dolwain
+Half-Orc
+Tanner
+Teres
+Eladrin
+Doctor
+Orianna
+Dwarf
+Candlestickmaker
+Iados
+Tiefling
+Cook
+Smuggle moonsugar into city
+Lost sword
+Intercept cultist army
+Hidden tunnel in house
+Smuggle skooma into city
+Smuggle moonsugar into city
+Monsters in city tunnels
+Smuggle skooma into city
+Intercept cultist army
+Lost shield
+false
+true
+5
+14
+Gem Mine
+Dwarf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Terra
+Dwarf
+Shoemaker
+Tirion
+Dwarf
+Banker
+Novin
+Dwarf
+Fruitier
+Insburn
+Dwarf
+Farmer
+Baldric
+Dwarf
+Hunter
+Find the key to this treasure chest
+PC being hunted as vengeance
+Carnivorous plants are attacking a village
+Discover source of power in ruins
+Escort noble
+Escort badguy to his trial
+Everyone is having nightmares
+Investigate magical ruins
+Monster wandering in the forest
+Arrested for no reason, forced to fight in the gladiator arena
+true
+true
+5
+21
+Five Bridges
+Human
+Thieves' Guild
+Stabbed Goblin
+Grungy
+Medium
+Sendekhar
+Halfling
+Stabbed Goblin
+Grungy
+Small
+Jetarren
+Goliath
+Tiny Tiefling
+Wealthy
+Medium
+Illendem
+Githzerai
+
+
+
+
+
+Councillor Rolaf
+Aengvir
+Human
+Cartographer
+Tosh Raka
+Human
+Smuggler
+Elante
+Human
+Candlestickmaker
+Ananaren
+Half-Elf
+Cleric
+Furandil
+Gnome
+Cook
+Kidnapped children
+Escort noble
+Defend the city
+Hear strange chanting in graveyard
+Arrested for no reason, forced to fight in the gladiator arena
+Prison door has been sealed somehow
+Assassin
+Kidnapped children
+Childghostmonster in well
+Escaped monster from noble's menagerie
+false
+true
+5
+22
+Anvil
+Goliath
+Hospital
+Toadstool
+Grungy
+Medium
+Tenel
+Elf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nalion
+Shaienna
+Goliath
+Doctor
+Erevan
+Goliath
+Smuggler
+Falcar
+Goliath
+Cartographer
+Jethrus
+Goliath
+Brewer
+Bharash
+Halfling
+Cartographer
+Rescue son
+Assassin – wrong target
+Bandits on the road
+Smuggle skooma into city
+Lost shield
+Smuggle skooma into city
+Deal with body
+Animals in a certain area are becoming mutated
+Everyone is having nightmares
+Eliminate enemy soldiers
+false
+true
+5
+27
+Enestair
+Dwarf
+Temple of Kord, Cathedral, Large Graveyard, Thieves' Guild
+Lionsword
+Wealthy
+Small
+Amakos
+Dragonborn
+Greedy Goblin
+Rough
+Small
+Talgurn
+Half-Orc
+Murdered King
+Rough
+Large
+Indoril
+Minotaur
+Big Bear
+Grungy
+Small
+Earmil
+Dragonborn
+Cleric Harbrek
+Locuur
+Dwarf
+Cartographer
+Anarenen
+Dwarf
+Smuggler
+Anhaedra
+Dwarf
+Priest
+Teres
+Minotaur
+Clothier
+Nullin
+Half-Orc
+Servant
+Rescue daughter
+Discover source of power in ruins
+Eliminate opposing merchant
+Bandits on the road
+Phantom ship sails down the river
+Reinforce the walls
+Assassin
+Arrested for no reason, forced to fight in the gladiator arena
+Assassin on road – poisons Pcs
+Tombs are being robbed
+false
+true
+6
+4
+Echo Mine
+Half-Orc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ungarion
+Half-Orc
+Bowyer
+Andul
+Half-Orc
+Apothecarist
+Nadaar
+Half-Orc
+Architect
+Ander
+Half-Orc
+Candlestickmaker
+Terrus
+Half-Orc
+Servant
+Escaped monster from noble's menagerie
+Track down thief
+Assassin murders the NPC
+Deal with body
+Escort merchant
+Escaped monster from noble's menagerie
+Wizard has accidentally created a portal and been sucked into it
+Infiltrate party
+Fog is spreading over a city, the houses that it touches are mysteriously empty
+Find the key to this treasure chest
+true
+true
+6
+10
+Shrine to Zehir
+Tiefling
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Arvyn
+Tiefling
+Follower
+Cirion
+Tiefling
+Follower
+Thadon
+Tiefling
+Follower
+Duric
+Tiefling
+Follower
+Kathutet
+Tiefling
+Follower
+Stolen amulet
+Lost dagger
+Prison door has been sealed somehow
+Beggar on road
+Smuggle skooma into city
+Assassin – wrong target
+Hear strange chanting in graveyard
+Escaped monster from noble's menagerie
+Bandit sprung from jail
+Mysterious door has appeared in the middle of the city
+true
+true
+6
+35
+Waelet
+Minotaur
+
+Mangy Minotaur
+Grungy
+Large
+Caenlin
+Human
+Bear and Lion
+Grungy
+Small
+Meldor
+Tiefling
+
+
+
+
+
+
+
+
+
+
+
+Canafen
+Minotaur
+Doctor
+Ulwaen
+Minotaur
+Fruitier
+Shalrida
+Minotaur
+Cartographer
+Mendel
+Tiefling
+Forester
+Norith
+Dragonborn
+Beggar
+Intercept cultist army
+Escaped monster from noble's menagerie
+Rescue cleric from other sect
+Assassin murders the NPC
+PC being hunted as vengeance
+PC being hunted as vengeance
+Hidden tunnel in house
+Escort merchant
+Take this key and unlock this tomb
+Escaped monster from noble's menagerie
+false
+true
+7
+6
+Silver Mine
+Minotaur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Borric
+Minotaur
+Sailor
+Lenar
+Minotaur
+Doctor
+Baelid
+Minotaur
+Shoemaker
+Erundil
+Minotaur
+Apothecarist
+Mathis
+Minotaur
+Poacher
+Kidnapped children
+Lost dagger
+Raiding mercenaries
+Tombs are being robbed
+Wizard has accidentally created a portal and been sucked into it
+Missing worker
+Assassin murders the NPC
+Track down thief
+Assassin murders the NPC
+Assassin
+true
+true
+7
+11
+Iron Keep
+Dwarf
+University
+Sword and Shield
+Rough
+Large
+Indoril
+Elf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mirel
+Shaienna
+Dwarf
+Fisherman
+Fargrim
+Dwarf
+Apothecarist
+Hald
+Dwarf
+Smuggler
+Kolj
+Dwarf
+Sailor
+Arterion
+Dragonborn
+Forester
+Beggar on road
+Stolen amulet
+Rumours of weird summoning circle outside city
+Infiltrate party
+Smuggle assassin into city
+Rumours of weird summoning circle outside city
+Take this key and unlock this tomb
+Carnivorous plants are attacking a village
+Kidnapped children
+Bandit sprung from jail
+false
+true
+7
+37
+Vilverin
+Halfling
+
+Eavesdropping Elf
+Rough
+Small
+Seridur
+Gnome
+Beef and Brew
+Grungy
+Medium
+Dolwain
+Halfling
+
+
+
+
+
+
+
+
+
+
+
+Harbrek
+Halfling
+Candlestickmaker
+Merandil
+Halfling
+Fruitier
+Anara
+Minotaur
+Carpenter
+Faric
+Half-Elf
+Clothier
+Aldruhn
+Gnome
+Gardener
+Find the key to this treasure chest
+Painter/Warlock is trapping people in his painting, must enter painting to destroy the magic source
+Investigate magical ruins
+Bandits on the road
+Lost amulet
+Kill the monster
+Stolen sword
+Smuggle skooma into city
+Arrested for no reason, forced to fight in the gladiator arena
+Hear strange chanting in graveyard
+false
+true
+7
+58
+Valley of Trials
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+true
+true
+8
+12
+Farm
+Halfling
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Earil
+Halfling
+Smuggler
+Sekhar
+Halfling
+Moneylender
+Nok Mar
+Halfling
+Carpenter
+Nalion
+Halfling
+Herbalist
+Duric
+Halfling
+Gardener
+Mysterious lights in a marsh – big fireflies
+Monsters in city tunnels
+Animals in a certain area are becoming mutated
+Investigate magical ruins
+Defend the city
+Animals in a certain area are becoming mutated
+Lost shield
+Sickness is spreading through city, need certain ingredients
+Lost shield
+Track down vampire – turns out everyone in target village is a vampire
+true
+true
+8
+26
+Shrine to Torog
+Human
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jethrus
+Human
+Follower
+Ivgrizt
+Human
+Follower
+Medrash
+Human
+Follower
+Thadon
+Human
+Follower
+Eberk
+Human
+Follower
+Lost dagger
+Assassin murders the NPC
+Fog is spreading over a city, the houses that it touches are mysteriously empty
+Bandits on the road
+Arrested for no reason, forced to fight in the gladiator arena
+Deal with body
+Escort badguy to his trial
+Fog is spreading over a city, the houses that it touches are mysteriously empty
+Infested mine
+Track down thief
+true
+true
+8
+36
+Echo Mine
+Human
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Olden
+Human
+Smuggler
+Dolus
+Human
+Mercenary
+Borric
+Human
+Banker
+Faelian
+Human
+Blacksmith
+Aengvir
+Human
+Fisherman
+Tombs are being robbed
+Infiltrate party
+Sickness is spreading through city, need certain ingredients
+Fog is spreading over a city, the houses that it touches are mysteriously empty
+Lost amulet
+Assassin
+Deliver a message – fastest way is through danger
+Intercept cultist army
+Track down thief
+Lost amulet
+true
+true
+8
+47
+Silver Mine
+Goliath
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dolus
+Goliath
+Beggar
+Tenel
+Goliath
+Blacksmith
+Eberk
+Goliath
+Bowyer
+Kara
+Goliath
+Spy
+Mirel
+Goliath
+Blacksmith
+Smuggle moonsugar into city
+Take this key and unlock this tomb
+Bandits on the road
+Wizard has accidentally created a portal and been sucked into it
+Investigate magical ruins
+Monsters raiding farm
+Disease
+Wizard has accidentally created a portal and been sucked into it
+Escort badguy to his trial
+Tombs are being robbed
+true
+true
+8
+52
+Shrine to Sehanine
+Elf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Illmiril
+Elf
+Follower
+Shaienna
+Elf
+Follower
+Bat
+Elf
+Follower
+Erevan
+Elf
+Follower
+Norith
+Elf
+Follower
+Missing worker
+Lost amulet
+Smuggle skooma into city
+Stalked by Kobolds
+Phantom ship sails down the river
+Sickness is spreading through city, need certain ingredients
+Childghostmonster in well
+Sickness is spreading through city, need certain ingredients
+Sickness is spreading through city, need certain ingredients
+Cursed ring
+true
+true
+9
+5
+Maingate
+Human
+Arcane Library
+Cave
+Rough
+Large
+Rangrim
+Minotaur
+Three Owls
+Wealthy
+Small
+Mathis
+Gnome
+Old Door
+Wealthy
+Small
+Anarenen
+Githzerai
+Old Door
+Rough
+Small
+Baldric
+Human
+Councillor Nadaar
+Aronil
+Human
+Emissary
+Helende
+Human
+Banker
+Hindaril
+Human
+Bowyer
+Adara
+Gnome
+Brewer
+Akmenos
+Elf
+Banker
+Track down thief
+Desecrated temple
+Fog is spreading over a city, the houses that it touches are mysteriously empty
+Find the key to this treasure chest
+Track down vampire – turns out everyone in target village is a vampire
+PC being hunted as vengeance
+Assassin murders the NPC
+Escort merchant
+Rescue son
+Deliver a message – fastest way is through danger
+false
+true
+9
+8
+Merchants' Camp
+Eladrin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Urwen
+Eladrin
+Priest
+Kastus
+Eladrin
+Beggar
+Thadon
+Eladrin
+Cleric
+Illendem
+Eladrin
+Gravedigger
+Avara
+Eladrin
+Herbalist
+Fog is spreading over a city, the houses that it touches are mysteriously empty
+Smuggle skooma into city
+Lost amulet
+Animals in a certain area are becoming mutated
+Eliminate enemy soldiers
+Hidden tunnel in house
+Intercept cultist army
+Lost dagger
+Lost axe
+PC being hunted as vengeance
+true
+true
+9
+27
+Haunted Graveyard
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+true
+true
+9
+30
+Watchtown
+Minotaur
+
+Greedy Goblin
+Grungy
+Large
+Halm
+Goliath
+Juggling Jester
+Grungy
+Medium
+Eridor
+Goliath
+
+
+
+
+
+
+
+
+
+
+
+Ghesh
+Minotaur
+Herbalist
+Erranil
+Minotaur
+Cleric
+Kildrak
+Elf
+Spy
+Faelian
+Dragonborn
+Fruitier
+Kastus
+Tiefling
+Candlestickmaker
+Assassin murders the NPC
+Spring a bandit from jail
+Phantom ship sails down the river
+Sickness is spreading through city, need certain ingredients
+Take this key and unlock this tomb
+Kidnapped children
+Lost sword
+Lost armour
+Defend the city
+Assassin on road – poisons Pcs
+false
+true
+9
+42
+High Ground
+Goliath
+
+Sword and Shield
+Wealthy
+Large
+Ungarion
+Minotaur
+Drunken Dwarf
+Grungy
+Medium
+Bharash
+Eladrin
+
+
+
+
+
+
+
+
+
+
+
+Amnon
+Goliath
+Smuggler
+Aculdor
+Goliath
+Spy
+Olth
+Tiefling
+Architect
+Balasar
+Gnome
+Fruitier
+Rhogar
+Githzerai
+Hunter
+Assassin on road – poisons Pcs
+Escaped monster from noble's menagerie
+Hear strange chanting in graveyard
+Kidnapped children
+Assassin murders the NPC
+Assassin murders the NPC
+Carnivorous plants are attacking a village
+Spring a bandit from jail
+Arrested for no reason, forced to fight in the gladiator arena
+Infiltrate party
+false
+true
+9
+44
+Silver Mine
+Goliath
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thirrin
+Goliath
+Cook
+Eldamil
+Goliath
+Emissary
+Aren
+Goliath
+Moneylender
+Voryn
+Goliath
+Spy
+Aurana
+Goliath
+Farmer
+Infiltrate party
+Deliver a message – fastest way is through danger
+Track down thief
+Rescue noble
+Infested mine
+Smuggle skooma into city
+Arrested for no reason, forced to fight in the gladiator arena
+Defend the city
+Prison door has been sealed somehow
+Monsters in city tunnels
+true
+true
+10
+10
+Temple of Avandra
+Human
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bharash
+Human
+Priest
+Faelian
+Human
+Priest
+Iados
+Human
+Priest
+Thirrin
+Human
+Priest
+Andul
+Human
+Priest
+Rescue daughter
+Bandits on the road
+Prison door has been sealed somehow
+Bandit sprung from jail
+Rescue merchent
+Rumours of weird summoning circle outside city
+Kidnapped children
+Infiltrate party
+Eliminate enemy soldiers
+Smuggle assassin into city
+true
+true
+10
+15
+Temple of Sehanine
+Elf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Khash-Ti
+Elf
+Priest
+Desha
+Elf
+Priest
+Terra
+Elf
+Cleric
+Jetarren
+Elf
+Priest
+Naira
+Elf
+Cleric
+Smuggle assassin into city
+Stolen amulet
+Animals in a certain area are becoming mutated
+Defend the city
+Rescue cleric from other sect
+Monsters raiding farm
+Assassin on road – poisons Pcs
+Escort badguy to his trial
+Assassin on road – poisons Pcs
+Kill the monster
+true
+true
+10
+29
+Stonehelm
+Tiefling
+Library
+Broken Bell
+Rough
+Medium
+Torren
+Tiefling
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tanara
+Torren
+Tiefling
+Servant
+Glarthir
+Tiefling
+Doctor
+Avahn
+Tiefling
+Fisherman
+Kardryn
+Tiefling
+Tanner
+Ranyu
+Dragonborn
+Herbalist
+Hear strange chanting in graveyard
+Mysterious door has appeared in the middle of the city
+Sickness is spreading through city, need certain ingredients
+Spring a bandit from jail
+Lost amulet
+Phantom ship sails down the river
+Lost armour
+Enchanted mirror – later on meet shadowy copies of themselves
+Monsters raiding farm
+Missing worker
+false
+true
+10
+30
+Temple of Bahamut
+Dwarf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tarris
+Dwarf
+Priest
+Desha
+Dwarf
+Priest
+Malcolm Reynolds
+Dwarf
+Priest
+Folgrim
+Dwarf
+Priest
+Velara
+Dwarf
+Cleric
+Take this key and unlock this tomb
+Assassin on road – poisons Pcs
+Eliminate opposing merchant
+Phantom ship sails down the river
+Escort noble
+Missing worker
+Mysterious door has appeared in the middle of the city
+Find the key to this treasure chest
+Bandit sprung from jail
+Kidnapped children
+true
+true
+10
+49
+Lost Caverns
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+true
+true
+10
+53
+Farm
+Halfling
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Verna
+Halfling
+Apothecarist
+Caenlin
+Halfling
+Cook
+Saedra
+Halfling
+Smuggler
+Donaar
+Halfling
+Mercenary
+Ormil
+Halfling
+Cleric
+Monster wandering in the forest
+Find the key to this treasure chest
+Arrested for no reason, forced to fight in the gladiator arena
+Phantom ship sails down the river
+Eliminate enemy soldiers
+Rescue merchent
+Take this key and unlock this tomb
+Lost dagger
+Defend the city
+Bandit sprung from jail
+true
+true
+11
+4
+Monastery
+Elf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Orianna
+Elf
+Monk
+Evandekhar
+Elf
+Monk
+Mirel
+Elf
+Monk
+Tenel
+Elf
+Monk
+Vebb
+Elf
+Monk
+Enchanted mirror – later on meet shadowy copies of themselves
+Arrested for no reason, forced to fight in the gladiator arena
+Fog is spreading over a city, the houses that it touches are mysteriously empty
+Animals in a certain area are becoming mutated
+Investigate magical ruins
+Prison door has been sealed somehow
+Smuggle moonsugar into city
+Stalked by Kobolds
+Find the key to this treasure chest
+Smuggle assassin into city
+true
+true
+11
+7
+Maingate
+Half-Orc
+Wizard's Tower, Arcane Library, Merchants' Guild
+Wise Wizard
+Rough
+Large
+Tirasch
+Human
+King's Ale
+Grungy
+Large
+Venna
+Goliath
+Dragon Egg
+Rough
+Medium
+Baldric
+Halfling
+
+
+
+
+
+Councillor Verna
+Viistra
+Half-Orc
+Builder
+Olden
+Half-Orc
+Soldier
+Nok Mar
+Half-Orc
+Wizard
+Tanara
+Dragonborn
+Doctor
+Arryn
+Goliath
+Smuggler
+Desecrated temple
+Fog is spreading over a city, the houses that it touches are mysteriously empty
+Kidnapped children
+Infiltrate party
+Reinforce the walls
+Stolen amulet
+Wizard has accidentally created a portal and been sucked into it
+Bandits on the road
+Bandits on the road
+Infested mine
+false
+true
+11
+18
+Thunder Mountain
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+true
+true
+11
+26
+Hunters' Camp
+Gnome
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aelar
+Gnome
+Priest
+Sevran
+Gnome
+Architect
+Adara
+Gnome
+Forester
+Sil
+Gnome
+Clothier
+Viistra
+Gnome
+Shoemaker
+Bandits on the road
+Spring a bandit from jail
+Stolen amulet
+Mysterious door has appeared in the middle of the city
+Wizard has accidentally created a portal and been sucked into it
+Rumours of weird summoning circle outside city
+Assassin
+Lost axe
+Lost dagger
+Infiltrate party
+true
+true
+11
+35
+Hunters' Camp
+Minotaur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Astien
+Minotaur
+Candlestickmaker
+Thoradin
+Minotaur
+Wizard
+Kildrak
+Minotaur
+Wizard
+Shen
+Minotaur
+Banker
+Eldamil
+Minotaur
+Doctor
+Rescue merchent
+Stolen sword
+Stolen amulet
+Cursed ring
+Arrested for no reason, forced to fight in the gladiator arena
+Escort noble
+Reinforce the walls
+Deal with body
+Disease
+Smuggle skooma into city
+true
+true
+11
+56
+Dirich
+Half-Orc
+
+Stabbed Goblin
+Grungy
+Small
+Imare
+Dwarf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Earil
+Half-Orc
+Cleric
+Arterion
+Half-Orc
+Tanner
+Tilmon
+Human
+Gardener
+Voryn
+Dragonborn
+Servant
+Caenlorn
+Dwarf
+Tanner
+Escort noble
+Lost sword
+Lost dagger
+Rescue daughter
+Wizard has accidentally created a portal and been sucked into it
+Raiding mercenaries
+Lost axe
+Arrested for no reason, forced to fight in the gladiator arena
+Kill the monster
+Infested mine
+false
+true
+12
+11
+Merchants' Camp
+Half-Elf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Esbern
+Half-Elf
+Tanner
+Ivgrizt
+Half-Elf
+Cook
+Lenar
+Half-Elf
+Alchemist
+Faelian
+Half-Elf
+Carpenter
+Gevin
+Half-Elf
+Poacher
+Stalked by Kobolds
+Reinforce the walls
+Monsters in city tunnels
+Find the key to this treasure chest
+Rescue cleric from other sect
+Bandit sprung from jail
+Animals in a certain area are becoming mutated
+Stalked by Kobolds
+Infested mine
+Stolen amulet
+true
+true
+12
+27
+Sentinel
+Dwarf
+Arcane Library, Hunters' Guild, University, Merchants' Guild
+Stabbed Goblin
+Wealthy
+Small
+Avahn
+Half-Orc
+Tiny Tiefling
+Grungy
+Large
+Amragor
+Minotaur
+Ship-on-the-Rocks
+Grungy
+Large
+Halm
+Human
+
+
+
+
+
+Cleric Vann
+Loro
+Dwarf
+Fisherman
+Sil
+Dwarf
+Bowyer
+Nok Mar
+Dwarf
+Priest
+Aldruhn
+Elf
+Cartographer
+Minhedel
+Half-Elf
+Gravedigger
+Rescue cleric from other sect
+Mysterious door has appeared in the middle of the city
+Hear strange chanting in ruins
+Hidden tunnel in house
+Eliminate opposing merchant
+PC being hunted as vengeance
+Raiding mercenaries
+Rescue merchent
+Painter/Warlock is trapping people in his painting, must enter painting to destroy the magic source
+Assassin on road – poisons Pcs
+false
+true
+12
+31
+Timberscar Hollow
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+true
+true
+12
+41
+Shrine to Torog
+Human
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Daric
+Human
+Follower
+Ulwaen
+Human
+Follower
+Terra
+Human
+Follower
+Illmiril
+Human
+Follower
+Vivec
+Human
+Follower
+Deal with body
+Rumours of weird summoning circle outside city
+Kill the monster
+Spring a bandit from jail
+Bandits on the road
+Rescue cleric from other sect
+Infiltrate party
+Lost sword
+Escort noble
+Carnivorous plants are attacking a village
+true
+true
+12
+42
+Stonebridge
+Dwarf
+Mercenary Outpost, Arcane Library, Hospital
+Lionsword
+Wealthy
+Small
+Morthos
+Human
+Shattered Shield
+Grungy
+Medium
+Dolus
+Half-Elf
+
+
+
+
+
+
+
+
+
+
+Councillor Caenlorn
+Olquar
+Dwarf
+Smuggler
+Aengvir
+Dwarf
+Cartographer
+Illmiril
+Dwarf
+Blacksmith
+Dolwain
+Goliath
+Builder
+Anhaedra
+Half-Orc
+Prisoner
+Monsters raiding farm
+Missing worker
+Mysterious door has appeared in the middle of the city
+Discover source of power in ruins
+Assassin – wrong target
+Bandit sprung from jail
+Mysterious lights in a marsh – big fireflies
+Mysterious lights in a marsh – big fireflies
+Assassin
+Infiltrate party
+false
+true
+12
+45
+Temple of Melora
+Human
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Teres
+Human
+Priest
+Amnon
+Human
+Priest
+Adrik
+Human
+Cleric
+Gevin
+Human
+Cleric
+Desha
+Human
+Cleric
+Prison door has been sealed somehow
+Rescue merchent
+Fog is spreading over a city, the houses that it touches are mysteriously empty
+Mysterious door has appeared in the middle of the city
+Track down vampire – turns out everyone in target village is a vampire
+Sickness is spreading through city, need certain ingredients
+Spring a bandit from jail
+Everyone is having nightmares
+Rumours of weird summoning circle outside city
+Rescue son
+true
+true
+13
+5
+Destroyed Monastery
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+true
+true
+13
+16
+Watchtown
+Half-Orc
+
+Wolf's Head
+Rough
+Medium
+Viistra
+Half-Orc
+Dragonborn's Deeds
+Rough
+Large
+Seridur
+Dragonborn
+
+
+
+
+
+
+
+
+
+
+
+Cingor
+Half-Orc
+Brewer
+Mirel
+Half-Orc
+Fisherman
+Durgoc
+Eladrin
+Forester
+Gerrick
+Elf
+Architect
+Sora
+Elf
+Bowyer
+Escort noble
+Carnivorous plants are attacking a village
+Lost sword
+Poisoned well
+Smuggle assassin into city
+Missing worker
+Phantom ship sails down the river
+Arrested for no reason, forced to fight in the gladiator arena
+Hidden tunnel in house
+Infested mine
+false
+true
+13
+23
+Fort Cedrian
+Human
+Mercenary Outpost
+Green Grass
+Rough
+Medium
+Avara
+Gnome
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Heskan
+Halm
+Human
+Gravedigger
+Jetarren
+Human
+Soldier
+Athragar
+Human
+Soldier
+Seculdor
+Human
+Carpenter
+Atrax
+Halfling
+Servant
+Enchanted mirror – later on meet shadowy copies of themselves
+Rescue son
+Discover source of power in ruins
+Rumours of weird summoning circle outside city
+Rescue daughter
+Lost axe
+Rescue son
+Discover source of power in ruins
+Stolen sword
+Cursed ring
+false
+true
+13
+33
+Destroyed Monastery
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+true
+true
+13
+35
+Cerrain
+Elf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Baron(ess) Serran
+Arnand
+Elf
+Builder
+Minhedel
+Elf
+Cook
+Avanna
+Elf
+Sailor
+Mirel
+Githzerai
+Priest
+Durgoc
+Half-Orc
+Cartographer
+Stolen sword
+Take this key and unlock this tomb
+Lost dagger
+Infested mine
+Hear strange chanting in ruins
+Bandit sprung from jail
+Lost armour
+Mysterious lights in a marsh – big fireflies
+Sickness is spreading through city, need certain ingredients
+Disease
+false
+true
+13
+37
+Torrus
+Half-Orc
+Grand Temple of the Raven Queen
+Green Grass
+Grungy
+Medium
+Hindaril
+Gnome
+Shipwreck
+Rough
+Large
+Olden
+Halfling
+Three-Legged Stool
+Rough
+Small
+Norith
+Dwarf
+
+
+
+
+
+Lord/Lady Waldorf
+Ballor
+Half-Orc
+Tanner
+Amnon
+Half-Orc
+Apothecarist
+Sindar
+Half-Orc
+Poacher
+Nelacar
+Dragonborn
+Fruitier
+Ander
+Gnome
+Doctor
+Eliminate opposing merchant
+Bandit sprung from jail
+Cursed ring
+Cursed ring
+Lost axe
+Hidden tunnel in house
+Tombs are being robbed
+Discover source of power in ruins
+Rumours of weird summoning circle outside city
+Childghostmonster in well
+false
+true
+13
+38
+Venedar
+Goliath
+Merchants' Guild
+Fat Friar
+Wealthy
+Large
+Tolvin
+Dwarf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ungarion
+Orintar
+Goliath
+Poacher
+Satine
+Goliath
+Bowyer
+Caric
+Goliath
+Priest
+Erranil
+Goliath
+Priest
+Aronil
+Half-Elf
+Hunter
+Kill the monster
+Eliminate opposing merchant
+Desecrated temple
+Missing worker
+Escaped monster from noble's menagerie
+Stalked by Kobolds
+Enchanted mirror – later on meet shadowy copies of themselves
+Fog is spreading over a city, the houses that it touches are mysteriously empty
+Reinforce the walls
+Mysterious lights in a marsh – big fireflies
+false
+true
+13
+42
+Abandoned Mine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+true
+true
+13
+49
+Shrine to Kord
+Half-Orc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jethrus
+Half-Orc
+Follower
+Meldor
+Half-Orc
+Follower
+Falor
+Half-Orc
+Follower
+Maeva
+Half-Orc
+Follower
+Gilnor
+Half-Orc
+Follower
+Assassin on road – poisons Pcs
+Lost armour
+Cursed ring
+Investigate magical ruins
+Mysterious lights in a marsh – big fireflies
+Bandit sprung from jail
+Rescue noble
+Infiltrate party
+Smuggle moonsugar into city
+Track down thief
+true
+true
+13
+52
+Merchants' Camp
+Githzerai
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Gevin
+Githzerai
+Shoemaker
+Hecerind
+Githzerai
+Poacher
+Aldaril
+Githzerai
+Smuggler
+Sora
+Githzerai
+Blacksmith
+Voryn
+Githzerai
+Cartographer
+Rumours of weird summoning circle outside city
+Lost armour
+Hear strange chanting in ruins
+Reinforce the walls
+Arrested for no reason, forced to fight in the gladiator arena
+Lost sword
+Poisoned well
+Tombs are being robbed
+Bandit sprung from jail
+Everyone is having nightmares
+true
+true
+13
+58
+Kingshaven
+Dwarf
+Temple
+Hungry Halfling
+Rough
+Medium
+Aren
+Half-Elf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hald
+Bogrum
+Dwarf
+Hunter
+Keltharion
+Dwarf
+Fruitier
+Olquar
+Dwarf
+Cleric
+Waldorf
+Dwarf
+Wizard
+Teria
+Minotaur
+Doctor
+Escort noble
+Kidnapped children
+Smuggle moonsugar into city
+Rescue son
+Escaped monster from noble's menagerie
+Lost dagger
+Kill the monster
+Arrested for no reason, forced to fight in the gladiator arena
+Reinforce the walls
+Stolen sword
+false
+true
+14
+8
+Shrine to Avandra
+Halfling
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Avahn
+Halfling
+Follower
+Ghesh
+Halfling
+Follower
+Norith
+Halfling
+Follower
+Ravos
+Halfling
+Follower
+Esbern
+Halfling
+Follower
+Deal with body
+Smuggle assassin into city
+PC being hunted as vengeance
+Arrested for no reason, forced to fight in the gladiator arena
+Rescue daughter
+Discover source of power in ruins
+Lost dagger
+Smuggle assassin into city
+Monsters in city tunnels
+Monster wandering in the forest
+true
+true
+14
+15
+Cracked Cliffs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+true
+true
+14
+29
+Alduin
+Elf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Viscount(ess) Adrik
+Tirion
+Elf
+Herbalist
+Alcaea
+Elf
+Brewer
+Caenlorn
+Elf
+Smuggler
+Ivgrizt
+Human
+Apothecarist
+Mendel
+Dwarf
+Mercenary
+Rescue merchent
+Hear strange chanting in graveyard
+Rescue son
+Track down thief
+Eliminate opposing merchant
+Mysterious lights in a marsh – big fireflies
+Take this key and unlock this tomb
+Childghostmonster in well
+Bandits on the road
+Hear strange chanting in ruins
+false
+true
+14
+36
+Bandits' Camp
+Halfling
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tharn
+Halfling
+Fisherman
+Dokhtross
+Halfling
+Doctor
+Terandas
+Halfling
+Spy
+Mankar
+Halfling
+Soldier
+Borric
+Halfling
+Sailor
+Infiltrate party
+Reinforce the walls
+Cursed ring
+Lost shield
+Mysterious door has appeared in the middle of the city
+Lost armour
+Beggar on road
+Infested mine
+Rescue merchent
+Intercept cultist army
+true
+true
+14
+37
+Destroyed Temple of Bahamut
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+true
+true
+14
+45
+Shrine to Corellon
+Human
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Seridur
+Human
+Follower
+Aldaril
+Human
+Follower
+Ungarion
+Human
+Follower
+Alain
+Human
+Follower
+Terrus
+Human
+Follower
+Poisoned well
+Escort noble
+Monsters raiding farm
+Enchanted mirror – later on meet shadowy copies of themselves
+Eliminate enemy soldiers
+Escort noble
+Escort badguy to his trial
+Eliminate enemy soldiers
+Beggar on road
+Escort badguy to his trial
+true
+true
+15
+21
+Crossroads
+Goliath
+
+Ship-on-the-Rocks
+Wealthy
+Medium
+Ocato
+Dwarf
+Three-Legged Stool
+Wealthy
+Large
+Mithas
+Elf
+
+
+
+
+
+
+
+
+
+
+
+Olden
+Goliath
+Shoemaker
+Kathutet
+Goliath
+Priest
+Astien
+Eladrin
+Carpenter
+Sora
+Gnome
+Tanner
+Ballor
+Githzerai
+Spy
+Rumours of weird summoning circle outside city
+Assassin on road – poisons Pcs
+Infested mine
+Hear strange chanting in ruins
+Arrested for no reason, forced to fight in the gladiator arena
+Hear strange chanting in graveyard
+Lost sword
+Discover source of power in ruins
+Fog is spreading over a city, the houses that it touches are mysteriously empty
+Bandits on the road
+false
+true
+15
+41
+Sentinel
+Human
+Library, Hospital, Thieves' Guild
+Silver Arrow
+Grungy
+Small
+Nelacar
+Human
+Wolf's Head
+Rough
+Large
+Illendem
+Dragonborn
+
+
+
+
+
+
+
+
+
+
+Cleric Akra
+Naira
+Human
+Alchemist
+Kelen
+Human
+Bowyer
+Viistra
+Human
+Priest
+Jetarren
+Minotaur
+Emissary
+Durgoc
+Minotaur
+Candlestickmaker
+Desecrated temple
+Raiding mercenaries
+Lost armour
+Deal with body
+Eliminate opposing merchant
+Lost shield
+Tombs are being robbed
+Hear strange chanting in graveyard
+Infested mine
+Lost amulet
+false
+true
+15
+44
+Soldiers' Camp
+Dwarf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Indoril
+Dwarf
+Bowyer
+Viistra
+Dwarf
+Smuggler
+Ivgrizt
+Dwarf
+Moneylender
+Gevin
+Dwarf
+Builder
+Mirel
+Dwarf
+Emissary
+Reinforce the walls
+Monsters in city tunnels
+Smuggle moonsugar into city
+Assassin murders the NPC
+Lost axe
+Kidnapped children
+Disease
+Monsters raiding farm
+Rescue son
+Take this key and unlock this tomb
+true
+true
+15
+49
+Strand
+Half-Orc
+
+Toadstool
+Rough
+Medium
+Cingor
+Minotaur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Helende
+Half-Orc
+Hunter
+Mara
+Half-Orc
+Gravedigger
+Arjhan
+Dwarf
+Farmer
+Lenar
+Dwarf
+Prisoner
+Kitarra
+Gnome
+Spy
+Escaped monster from noble's menagerie
+Sickness is spreading through city, need certain ingredients
+Escort badguy to his trial
+Hear strange chanting in graveyard
+Monsters raiding farm
+Monsters in city tunnels
+Eliminate opposing merchant
+Arrested for no reason, forced to fight in the gladiator arena
+Tombs are being robbed
+Monsters in city tunnels
+false
+true
+15
+57
+Silver Mine
+Human
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Alcaea
+Human
+Carpenter
+Endring
+Human
+Blacksmith
+Anarenen
+Human
+Gravedigger
+Kurog
+Human
+Shoemaker
+Illendem
+Human
+Poacher
+Disease
+Hear strange chanting in graveyard
+Deliver a message – fastest way is through danger
+Stolen amulet
+Rumours of weird summoning circle outside city
+Assassin on road – poisons Pcs
+Lost axe
+Assassin
+Assassin murders the NPC
+Deliver a message – fastest way is through danger
+true
+true
+16
+5
+Barrows
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+true
+true
+16
+10
+Temple of Pelor
+Dwarf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Naira
+Dwarf
+Priest
+Acatros
+Dwarf
+Priest
+Evandekhar
+Dwarf
+Cleric
+Voryn
+Dwarf
+Cleric
+Erevan
+Dwarf
+Cleric
+Tombs are being robbed
+Eliminate enemy soldiers
+Smuggle moonsugar into city
+Rescue son
+Painter/Warlock is trapping people in his painting, must enter painting to destroy the magic source
+Lost amulet
+Deliver a message – fastest way is through danger
+Infested mine
+Rescue noble
+Stalked by Kobolds
+true
+true
+16
+18
+Valdrek
+Dwarf
+Library, University, Hunters' Guild, Merchants' Guild
+Stabbed Goblin
+Rough
+Large
+Anruin
+Half-Elf
+Goblin's Revenge
+Wealthy
+Large
+Mara
+Githzerai
+
+
+
+
+
+
+
+
+
+
+Councillor Astate
+Nullin
+Dwarf
+Cartographer
+Angoril
+Dwarf
+Doctor
+Erundil
+Dwarf
+Gravedigger
+Verna
+Dwarf
+Doctor
+Ormil
+Tiefling
+Cleric
+Missing worker
+Missing worker
+Enchanted mirror – later on meet shadowy copies of themselves
+Prison door has been sealed somehow
+Mysterious lights in a marsh – big fireflies
+Deal with body
+Track down thief
+Find the key to this treasure chest
+Phantom ship sails down the river
+Stolen sword
+false
+true
+16
+35
+Soldiers' Camp
+Dragonborn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Taren
+Dragonborn
+Poacher
+Terandas
+Dragonborn
+Hunter
+Ocato
+Dragonborn
+Moneylender
+Kathutet
+Dragonborn
+Smuggler
+Mathis
+Dragonborn
+Servant
+Kill the monster
+Assassin
+Animals in a certain area are becoming mutated
+Rescue cleric from other sect
+Escort noble
+Defend the city
+Take this key and unlock this tomb
+Lost dagger
+Track down thief
+Escaped monster from noble's menagerie
+true
+true
+16
+54
+Sedor
+Dwarf
+Temple of Erathis, Merchants' Guild, Thieves' Guild
+Green Grass
+Wealthy
+Small
+Acatros
+Half-Elf
+Haunted Frog
+Wealthy
+Large
+Mirel
+Human
+
+
+
+
+
+
+
+
+
+
+Councillor Illendem
+Ulandra
+Dwarf
+Soldier
+Adaves
+Dwarf
+Fruitier
+Eridor
+Dwarf
+Smuggler
+Nullin
+Human
+Alchemist
+Tarvur
+Githzerai
+Prisoner
+Defend the city
+Escort noble
+Assassin
+Deliver a message – fastest way is through danger
+Monsters in city tunnels
+Intercept cultist army
+Everyone is having nightmares
+Rumours of weird summoning circle outside city
+Childghostmonster in well
+Stolen amulet
+false
+true
+17
+26
+Anutwyll
+Human
+Arcane Library
+Juggling Jester
+Rough
+Small
+Anarenen
+Half-Orc
+Old Door
+Wealthy
+Medium
+Voryn
+Eladrin
+Ship-on-the-Rocks
+Rough
+Medium
+Vivec
+Dwarf
+Elder Eladrin
+Grungy
+Large
+Calindil
+Halfling
+Cleric Malcolm Reynolds
+Jetarren
+Human
+Farmer
+Taris
+Human
+Moneylender
+Rolaf
+Human
+Smuggler
+Havalda
+Gnome
+Beggar
+Maenlorn
+Gnome
+Tanner
+Rescue daughter
+Rescue daughter
+Stolen amulet
+Assassin
+Sickness is spreading through city, need certain ingredients
+Cursed ring
+Rescue daughter
+PC being hunted as vengeance
+Stolen amulet
+Eliminate opposing merchant
+false
+true
+17
+42
+Temple of Kord
+Half-Orc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Olth
+Half-Orc
+Priest
+Saedra
+Half-Orc
+Priest
+Anhaedra
+Half-Orc
+Cleric
+Gilnor
+Half-Orc
+Priest
+Bogrum
+Half-Orc
+Cleric
+Track down vampire – turns out everyone in target village is a vampire
+Fog is spreading over a city, the houses that it touches are mysteriously empty
+Wizard has accidentally created a portal and been sucked into it
+Intercept cultist army
+Lost dagger
+Find the key to this treasure chest
+Rescue son
+Cursed ring
+Lost dagger
+Escaped monster from noble's menagerie
+true
+true
+17
+53
+Stonewall
+Dwarf
+Thieves' Guild
+Hungry Halfling
+Grungy
+Small
+Alcaea
+Half-Elf
+Haunted Frog
+Grungy
+Large
+Kurog
+Githzerai
+
+
+
+
+
+
+
+
+
+
+Cleric Dolwain
+Terrus
+Dwarf
+Apothecarist
+Aren
+Dwarf
+Alchemist
+Andul
+Dwarf
+Poacher
+Khash-Ti
+Dragonborn
+Gardener
+Umaril
+Dragonborn
+Smuggler
+Smuggle moonsugar into city
+Assassin murders the NPC
+Escaped monster from noble's menagerie
+Stalked by Kobolds
+Lost shield
+Infested mine
+Defend the city
+Everyone is having nightmares
+Mysterious lights in a marsh – big fireflies
+Monster wandering in the forest
+false
+true
+18
+8
+Silver Mine
+Dwarf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Gromm
+Dwarf
+Emissary
+Ivgrizt
+Dwarf
+Sailor
+Ormil
+Dwarf
+Doctor
+Helende
+Dwarf
+Builder
+Allimir
+Dwarf
+Blacksmith
+Reinforce the walls
+Lost armour
+PC being hunted as vengeance
+Escaped monster from noble's menagerie
+Track down vampire – turns out everyone in target village is a vampire
+Lost dagger
+Infiltrate party
+Wizard has accidentally created a portal and been sucked into it
+Childghostmonster in well
+Discover source of power in ruins
+true
+true
+18
+13
+Sedor
+Dwarf
+Wizard's Tower, Cathedral, Temple of the Raven Queen
+Toadstool
+Grungy
+Small
+Barkash
+Half-Elf
+Shattered Shield
+Rough
+Small
+Erevan
+Eladrin
+Three-Legged Stool
+Grungy
+Small
+Olorin
+Tiefling
+King's Ale
+Rough
+Medium
+Erundil
+Eladrin
+Baron(ess) Avaran
+Bralion
+Dwarf
+Smuggler
+Tilmon
+Dwarf
+Architect
+Esbern
+Dwarf
+Mercenary
+Adaves
+Eladrin
+Cook
+Vivec
+Half-Orc
+Fisherman
+Eliminate enemy soldiers
+Monster wandering in the forest
+Tombs are being robbed
+Tombs are being robbed
+Rumours of weird summoning circle outside city
+Hear strange chanting in ruins
+Rescue noble
+Rescue merchent
+Bandit sprung from jail
+Spring a bandit from jail
+false
+true
+18
+21
+Echo Mine
+Half-Orc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bat
+Half-Orc
+Blacksmith
+Terane
+Half-Orc
+Mercenary
+Caenlin
+Half-Orc
+Cleric
+Arterion
+Half-Orc
+Beggar
+Angoril
+Half-Orc
+Shoemaker
+Stolen amulet
+Smuggle assassin into city
+Mysterious door has appeared in the middle of the city
+Stolen sword
+Lost axe
+Animals in a certain area are becoming mutated
+Eliminate opposing merchant
+Hear strange chanting in graveyard
+Fog is spreading over a city, the houses that it touches are mysteriously empty
+Assassin on road – poisons Pcs
+true
+true
+18
+47
+Travellers' Camp
+Human
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Meldor
+Human
+Cook
+Balasar
+Human
+Cleric
+Furandil
+Human
+Banker
+Burkil
+Human
+Hunter
+Kara
+Human
+Alchemist
+Enchanted mirror – later on meet shadowy copies of themselves
+Monsters in city tunnels
+Prison door has been sealed somehow
+Track down thief
+Lost armour
+Painter/Warlock is trapping people in his painting, must enter painting to destroy the magic source
+Rumours of weird summoning circle outside city
+Lost amulet
+Reinforce the walls
+Bandit sprung from jail
+true
+true
+19
+10
+Bandits' Cave
+Tiefling
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Arrille
+Tiefling
+Carpenter
+Atrax
+Tiefling
+Candlestickmaker
+Maeva
+Tiefling
+Prisoner
+Gevin
+Tiefling
+Clothier
+Avanna
+Tiefling
+Cleric
+Hear strange chanting in ruins
+Everyone is having nightmares
+Disease
+Rescue cleric from other sect
+Rescue son
+Lost dagger
+Smuggle assassin into city
+Smuggle skooma into city
+Raiding mercenaries
+Eliminate enemy soldiers
+true
+true
+19
+27
+Soldiers' Camp
+Half-Orc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Damakos
+Half-Orc
+Blacksmith
+Menedar
+Half-Orc
+Beggar
+Tares
+Half-Orc
+Blacksmith
+Iados
+Half-Orc
+Cook
+Heskan
+Half-Orc
+Banker
+Smuggle moonsugar into city
+Stolen amulet
+Carnivorous plants are attacking a village
+Find the key to this treasure chest
+Assassin murders the NPC
+Escort noble
+Lost axe
+Deliver a message – fastest way is through danger
+Escaped monster from noble's menagerie
+Track down vampire – turns out everyone in target village is a vampire
+true
+true
+19
+42
+Echo Mine
+Dwarf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Viistra
+Dwarf
+Prisoner
+Mankar
+Dwarf
+Farmer
+Ulwaen
+Dwarf
+Fisherman
+Venna
+Dwarf
+Apothecarist
+Ormil
+Dwarf
+Banker
+Prison door has been sealed somehow
+Escort badguy to his trial
+Assassin on road – poisons Pcs
+Track down thief
+Monsters in city tunnels
+Smuggle assassin into city
+Monsters in city tunnels
+Poisoned well
+Missing worker
+Lost shield
+true
+true
+19
+53
+Monastery
+Human
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sendekhar
+Human
+Monk
+Caranya
+Human
+Monk
+Athellor
+Human
+Monk
+Tolvin
+Human
+Monk
+Helende
+Human
+Monk
+Hear strange chanting in graveyard
+Hear strange chanting in ruins
+Intercept cultist army
+Smuggle moonsugar into city
+Rescue daughter
+Tombs are being robbed
+Rescue merchent
+Hidden tunnel in house
+Stolen amulet
+Childghostmonster in well
+true
+true
+20
+8
+Anutwyll
+Human
+Temple of Sehanine, Grand Temple of Kord, Mercenary Outpost
+Eavesdropping Elf
+Grungy
+Medium
+Kardryn
+Minotaur
+Dead Man
+Rough
+Small
+Aldaril
+Half-Orc
+Cave
+Rough
+Medium
+Agronak
+Dwarf
+
+
+
+
+
+Cleric Tirasch
+Bat
+Human
+Poacher
+Armion
+Human
+Architect
+Venora
+Human
+Bowyer
+Bazur
+Human
+Gravedigger
+Earana
+Githzerai
+Apothecarist
+Beggar on road
+Lost axe
+Rescue son
+Take this key and unlock this tomb
+Assassin
+Eliminate enemy soldiers
+Rescue noble
+Track down vampire – turns out everyone in target village is a vampire
+Reinforce the walls
+Stolen amulet
+false
+true
+20
+15
+Wendir
+Dwarf
+Temple
+Toadstool
+Grungy
+Medium
+Nullin
+Goliath
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lord Avann
+Saedra
+Dwarf
+Emissary
+Kriv
+Dwarf
+Herbalist
+Bogrum
+Dwarf
+Soldier
+Iados
+Dwarf
+Shoemaker
+Gevin
+Gnome
+Smuggler
+Lost dagger
+Animals in a certain area are becoming mutated
+Hear strange chanting in graveyard
+PC being hunted as vengeance
+Stolen amulet
+Eliminate enemy soldiers
+Lost sword
+Lost sword
+Tombs are being robbed
+Lost shield
+false
+true
+20
+17
+Sancre Tor
+Human
+Temple of Kord, Temple of Sehanine, Arcane Library, Mercenary Outpost
+Haunted Frog
+Wealthy
+Medium
+Voryn
+Tiefling
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Baroness Anura
+Faric
+Human
+Gravedigger
+Nalion
+Human
+Gardener
+Olth
+Human
+Poacher
+Verna
+Human
+Emissary
+Carwen
+Eladrin
+Cartographer
+Animals in a certain area are becoming mutated
+Disease
+Prison door has been sealed somehow
+Rescue merchent
+Kill the monster
+Desecrated temple
+Rescue cleric from other sect
+Desecrated temple
+Assassin – wrong target
+Rescue son
+false
+true
+20
+21
+Bandits' Cave
+Gnome
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Selene
+Gnome
+Alchemist
+Arterion
+Gnome
+Fruitier
+Rumare
+Gnome
+Sailor
+Thoronir
+Gnome
+Servant
+Anarenen
+Gnome
+Gravedigger
+Desecrated temple
+PC being hunted as vengeance
+Investigate magical ruins
+Track down vampire – turns out everyone in target village is a vampire
+Take this key and unlock this tomb
+Lost sword
+Eliminate enemy soldiers
+Escort merchant
+Animals in a certain area are becoming mutated
+Everyone is having nightmares
+true
+true
+20
+26
+Travellers' Camp
+Minotaur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Illendem
+Minotaur
+Moneylender
+Sil
+Minotaur
+Servant
+Umaril
+Minotaur
+Fisherman
+Tirasch
+Minotaur
+Sailor
+Durgoc
+Minotaur
+Priest
+Everyone is having nightmares
+Everyone is having nightmares
+Stolen sword
+Eliminate enemy soldiers
+Poisoned well
+Infiltrate party
+Lost sword
+Track down vampire – turns out everyone in target village is a vampire
+Rescue merchent
+Assassin murders the NPC
+true
+true
+20
+30
+Wintervale
+Halfling
+
+Cooked Cat
+Grungy
+Medium
+Angarion
+Minotaur
+Wolf's Head
+Wealthy
+Small
+Olth
+Goliath
+
+
+
+
+
+
+
+
+
+
+
+Eberk
+Halfling
+Tanner
+Rolaf
+Halfling
+Sailor
+Indoril
+Halfling
+Cartographer
+Amragor
+Eladrin
+Bowyer
+Venora
+Githzerai
+Hunter
+Rescue noble
+Rescue noble
+Monster wandering in the forest
+Smuggle skooma into city
+Monsters in city tunnels
+Discover source of power in ruins
+Carnivorous plants are attacking a village
+Disease
+Reinforce the walls
+Lost axe
+false
+true
+20
+35
+Ghostgate
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+true
+true
+20
+37
+Destroyed Monastery
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+true
+true
+20
+45
+Hale
+Dwarf
+
+Six Swords
+Rough
+Medium
+Melech
+Dwarf
+Sword and Shield
+Wealthy
+Small
+Melech
+Goliath
+
+
+
+
+
+
+
+
+
+
+
+Arlenfel
+Dwarf
+Prisoner
+Carwen
+Dwarf
+Herbalist
+Adaves
+Dragonborn
+Smuggler
+Tirasch
+Eladrin
+Candlestickmaker
+Damakos
+Human
+Doctor
+Eliminate opposing merchant
+Escort merchant
+Lost dagger
+Assassin on road – poisons Pcs
+Cursed ring
+Arrested for no reason, forced to fight in the gladiator arena
+Take this key and unlock this tomb
+Enchanted mirror – later on meet shadowy copies of themselves
+Stolen amulet
+Smuggle assassin into city
+false
+true
+20
+50
+Lost Caverns
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+true
+true
+20
+58
+Bandits' Camp
+Minotaur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ulandra
+Minotaur
+Cook
+Khash-Ti
+Minotaur
+Forester
+Melech
+Minotaur
+Mercenary
+Baelid
+Minotaur
+Herbalist
+Waldorf
+Minotaur
+Smuggler
+Deliver a message – fastest way is through danger
+Track down thief
+Eliminate enemy soldiers
+Assassin on road – poisons Pcs
+Lost axe
+Phantom ship sails down the river
+Lost axe
+Everyone is having nightmares
+Monsters in city tunnels
+Rescue cleric from other sect
+true
+true
+21
+4
+Bandits' Camp
+Minotaur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Seccair
+Minotaur
+Brewer
+Forgrim
+Minotaur
+Clothier
+Taren
+Minotaur
+Soldier
+Varis
+Minotaur
+Alchemist
+Bharash
+Minotaur
+Tanner
+Eliminate enemy soldiers
+Rescue noble
+PC being hunted as vengeance
+Rescue merchent
+Wizard has accidentally created a portal and been sucked into it
+PC being hunted as vengeance
+Infested mine
+Cursed ring
+Rescue merchent
+Monsters raiding farm
+true
+true
+21
+6
+Gem Mine
+Half-Orc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mirel
+Half-Orc
+Tanner
+Therai
+Half-Orc
+Poacher
+Travok
+Half-Orc
+Doctor
+Terrus
+Half-Orc
+Architect
+Halion
+Half-Orc
+Mercenary
+Rescue daughter
+Monsters in city tunnels
+Missing worker
+Hear strange chanting in ruins
+Discover source of power in ruins
+Lost amulet
+Monsters in city tunnels
+Deal with body
+Escaped monster from noble's menagerie
+Escort merchant
+true
+true
+21
+9
+Sharan
+Human
+Mercenary Outpost, University
+Haunted Frog
+Rough
+Medium
+Minhedel
+Half-Orc
+Six Swords
+Rough
+Small
+Akatosh
+Half-Orc
+Talkative Tiefling
+Rough
+Large
+Baenlin
+Githzerai
+Toadstool
+Wealthy
+Large
+Caenlorn
+Minotaur
+Baron(ess) Sendekhar
+Ranyu
+Human
+Forester
+Darrak
+Human
+Alchemist
+Insburn
+Human
+Cook
+Tolvin
+Human
+Candlestickmaker
+Evandekhar
+Githzerai
+Brewer
+Everyone is having nightmares
+Discover source of power in ruins
+Stalked by Kobolds
+Rescue cleric from other sect
+Take this key and unlock this tomb
+Defend the city
+Assassin
+Smuggle moonsugar into city
+Prison door has been sealed somehow
+Smuggle skooma into city
+false
+true
+21
+16
+Oninsford
+Dwarf
+
+Bear and Lion
+Rough
+Small
+Halion
+Elf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Alkor
+Dwarf
+Moneylender
+Mastrius
+Dwarf
+Gardener
+Heskan
+Githzerai
+Clothier
+Ballor
+Elf
+Cook
+Berend
+Human
+Brewer
+Lost dagger
+Prison door has been sealed somehow
+Hidden tunnel in house
+Lost sword
+Lost amulet
+Monsters in city tunnels
+Stolen sword
+Lost amulet
+Investigate magical ruins
+Rescue noble
+false
+true
+21
+18
+Shrine to the Raven Queen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+true
+true
+22
+5
+Sharan
+Human
+Grand Temple of Sehanine, Hospital
+Dead Man
+Wealthy
+Large
+Umaril
+Dragonborn
+Fat Friar
+Grungy
+Small
+Waldorf
+Githzerai
+Dead Man
+Rough
+Small
+Venna
+Githzerai
+
+
+
+
+
+Viscount(ess) Ormil
+Vebb
+Human
+Mercenary
+Ocato
+Human
+Emissary
+Kulber
+Human
+Spy
+Fan
+Gnome
+Soldier
+Maeva
+Dragonborn
+Forester
+Eliminate opposing merchant
+Stalked by Kobolds
+Escort merchant
+PC being hunted as vengeance
+Mysterious lights in a marsh – big fireflies
+Bandit sprung from jail
+Enchanted mirror – later on meet shadowy copies of themselves
+Mysterious door has appeared in the middle of the city
+Cursed ring
+Kidnapped children
+false
+true
+22
+7
+Merchants' Camp
+Tiefling
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Arterion
+Tiefling
+Fisherman
+Ungarion
+Tiefling
+Prisoner
+Terandas
+Tiefling
+Alchemist
+Elberoth
+Tiefling
+Gardener
+Borric
+Tiefling
+Prisoner
+Defend the city
+Reinforce the walls
+Track down vampire – turns out everyone in target village is a vampire
+Smuggle skooma into city
+Kill the monster
+Kidnapped children
+Mysterious door has appeared in the middle of the city
+Investigate magical ruins
+Smuggle moonsugar into city
+Lost shield
+true
+true
+22
+11
+Atatar
+Human
+Merchants' Guild
+Bear and Lion
+Wealthy
+Large
+Gilnor
+Human
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lord Keltharion
+Nalion
+Human
+Hunter
+Norith
+Human
+Cartographer
+Sindar
+Human
+Doctor
+Ander
+Human
+Smuggler
+Thadon
+Half-Orc
+Forester
+Mysterious lights in a marsh – big fireflies
+Rumours of weird summoning circle outside city
+Infiltrate party
+Desecrated temple
+Poisoned well
+Stolen sword
+Track down thief
+Assassin – wrong target
+Stolen sword
+Bandits on the road
+false
+true
+22
+24
+Strand
+Dwarf
+
+Broken Table
+Wealthy
+Small
+Nok Mar
+Tiefling
+Shattered Shield
+Wealthy
+Large
+Arryn
+Dwarf
+
+
+
+
+
+
+
+
+
+
+
+Waldorf
+Dwarf
+Herbalist
+Olquar
+Dwarf
+Cleric
+Baern
+Human
+Cook
+Bralion
+Githzerai
+Builder
+Jetarren
+Eladrin
+Cook
+Lost shield
+Eliminate enemy soldiers
+Cursed ring
+Track down thief
+Smuggle skooma into city
+Escort badguy to his trial
+Enchanted mirror – later on meet shadowy copies of themselves
+Beggar on road
+Monsters in city tunnels
+Missing worker
+false
+true
+22
+28
+Shrine to Gruumsh
+Minotaur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kurog
+Minotaur
+Follower
+Kelen
+Minotaur
+Follower
+Armion
+Minotaur
+Follower
+Caric
+Minotaur
+Follower
+Falor
+Minotaur
+Follower
+Carnivorous plants are attacking a village
+Painter/Warlock is trapping people in his painting, must enter painting to destroy the magic source
+Wizard has accidentally created a portal and been sucked into it
+Stolen amulet
+Monster wandering in the forest
+Stolen sword
+Bandits on the road
+Infested mine
+Hear strange chanting in graveyard
+Hear strange chanting in ruins
+true
+true
+22
+41
+Bruma
+Dwarf
+
+Greedy Goblin
+Rough
+Large
+Venna
+Goliath
+Bear and Lion
+Rough
+Large
+Ungarion
+Human
+
+
+
+
+
+
+
+
+
+
+
+Lenar
+Dwarf
+Emissary
+Hald
+Dwarf
+Beggar
+Terandas
+Minotaur
+Farmer
+Akra
+Half-Orc
+Doctor
+Ander
+Half-Orc
+Priest
+Kidnapped children
+Childghostmonster in well
+Stolen sword
+Wizard has accidentally created a portal and been sucked into it
+Smuggle assassin into city
+Hear strange chanting in graveyard
+Assassin – wrong target
+Lost dagger
+Find the key to this treasure chest
+Assassin – wrong target
+false
+true
+22
+45
+Monastery
+Githzerai
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tilmon
+Githzerai
+Monk
+Angarion
+Githzerai
+Monk
+Noss
+Githzerai
+Monk
+Avaran
+Githzerai
+Monk
+Saedra
+Githzerai
+Monk
+Disease
+Deal with body
+Hidden tunnel in house
+Missing worker
+Rescue son
+Escort noble
+Hear strange chanting in graveyard
+Rescue son
+Carnivorous plants are attacking a village
+Raiding mercenaries
+true
+true
+22
+54
+Heth
+Eladrin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tarris
+Eladrin
+Gravedigger
+Torren
+Eladrin
+Hunter
+Vivec
+Githzerai
+Clothier
+Ghesh
+Half-Elf
+Moneylender
+Thoronir
+Dwarf
+Gardener
+Lost armour
+Stolen amulet
+Missing worker
+Infiltrate party
+Cursed ring
+Lost dagger
+Assassin
+Painter/Warlock is trapping people in his painting, must enter painting to destroy the magic source
+Childghostmonster in well
+Lost sword
+false
+true
+22
+56
+Waelet
+Gnome
+
+Wolf's Head
+Grungy
+Large
+Imare
+Elf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rumare
+Gnome
+Prisoner
+Gildor
+Gnome
+Hunter
+Olorin
+Dragonborn
+Cleric
+Nelacar
+Gnome
+Clothier
+Ayalea
+Eladrin
+Banker
+Tombs are being robbed
+Rescue son
+Rescue son
+Everyone is having nightmares
+Bandits on the road
+Find the key to this treasure chest
+Track down thief
+Track down vampire – turns out everyone in target village is a vampire
+Monsters in city tunnels
+Disease
+false
+true
+23
+8
+Eleglynn
+Halfling
+
+Silver Arrow
+Grungy
+Small
+Olden
+Dwarf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Shaienna
+Halfling
+Builder
+Hald
+Halfling
+Shoemaker
+Halm
+Human
+Alchemist
+Travok
+Eladrin
+Cartographer
+Ulfric
+Dragonborn
+Alchemist
+Deal with body
+Eliminate opposing merchant
+Assassin
+Kill the monster
+Painter/Warlock is trapping people in his painting, must enter painting to destroy the magic source
+Reinforce the walls
+Cursed ring
+Infiltrate party
+Beggar on road
+Kill the monster
+false
+true
+23
+20
+Atatar
+Dwarf
+Mercenary Outpost, Wizard's Tower, Hunters' Guild
+Tiny Tiefling
+Wealthy
+Small
+Velara
+Githzerai
+Bear and Lion
+Grungy
+Small
+Damakos
+Halfling
+
+
+
+
+
+
+
+
+
+
+Baron(ess) Calindil
+Sekhar
+Dwarf
+Moneylender
+Burkil
+Dwarf
+Gravedigger
+Olquar
+Dwarf
+Beggar
+Amakos
+Minotaur
+Emissary
+Baldric
+Gnome
+Cook
+Investigate magical ruins
+Escort noble
+Smuggle skooma into city
+Wizard has accidentally created a portal and been sucked into it
+Bandit sprung from jail
+Defend the city
+Eliminate opposing merchant
+Escort noble
+Rescue daughter
+Lost armour
+false
+true
+23
+33
+Withering
+Minotaur
+
+Deadly Drow
+Wealthy
+Medium
+Tolvin
+Half-Elf
+Haunted Frog
+Grungy
+Large
+Kurog
+Human
+
+
+
+
+
+
+
+
+
+
+
+Ranyu
+Minotaur
+Spy
+Amakos
+Minotaur
+Cartographer
+Acatros
+Goliath
+Farmer
+Morthos
+Dwarf
+Fisherman
+Nelacar
+Elf
+Mercenary
+Tombs are being robbed
+Beggar on road
+Beggar on road
+Mysterious lights in a marsh – big fireflies
+Stolen sword
+Bandit sprung from jail
+Assassin
+Poisoned well
+Rescue son
+Escort badguy to his trial
+false
+true
+23
+37
+Toadswamp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+true
+true
+23
+48
+Crossroads
+Halfling
+
+Ship-on-the-Rocks
+Rough
+Small
+Thirrin
+Minotaur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Berend
+Halfling
+Architect
+Kriv
+Halfling
+Alchemist
+Anarenen
+Tiefling
+Candlestickmaker
+Halyne
+Elf
+Carpenter
+Amragor
+Githzerai
+Priest
+Rescue daughter
+Beggar on road
+Lost shield
+Monsters in city tunnels
+Cursed ring
+Deal with body
+Smuggle moonsugar into city
+Enchanted mirror – later on meet shadowy copies of themselves
+Beggar on road
+Escaped monster from noble's menagerie
+false
+true
+23
+52
+Labyrinth
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+true
+true
+24
+11
+Terrinas
+Human
+Mercenary Outpost, Arcane Library, Temple of Sehanine
+Dead Man
+Grungy
+Medium
+Ravos
+Halfling
+Fat Friar
+Wealthy
+Medium
+Volenar
+Goliath
+
+
+
+
+
+
+
+
+
+
+Viscount(ess) Insburn
+Angoril
+Human
+Spy
+Amakos
+Human
+Spy
+Waldorf
+Human
+Alchemist
+Hecerind
+Elf
+Builder
+Ungarion
+Half-Orc
+Builder
+Monsters in city tunnels
+Smuggle assassin into city
+Track down vampire – turns out everyone in target village is a vampire
+Wizard has accidentally created a portal and been sucked into it
+Hidden tunnel in house
+Hear strange chanting in graveyard
+Enchanted mirror – later on meet shadowy copies of themselves
+Monsters raiding farm
+Escort badguy to his trial
+Rescue noble
+false
+true
+24
+15
+Winterhaven
+Halfling
+
+Shipwreck
+Rough
+Medium
+Ayalea
+Minotaur
+Bear and Lion
+Rough
+Medium
+Selene
+Half-Orc
+
+
+
+
+
+
+
+
+
+
+
+Helende
+Halfling
+Gravedigger
+Mankar
+Halfling
+Gravedigger
+Tarris
+Half-Elf
+Cartographer
+Aronil
+Human
+Forester
+Arvyn
+Elf
+Prisoner
+Investigate magical ruins
+Enchanted mirror – later on meet shadowy copies of themselves
+Raiding mercenaries
+Escaped monster from noble's menagerie
+Smuggle skooma into city
+Lost axe
+Intercept cultist army
+Smuggle skooma into city
+Escort badguy to his trial
+Tombs are being robbed
+false
+true
+24
+18
+Shrine to Zehir
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+true
+true
+24
+23
+Hunters' Camp
+Halfling
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mendel
+Halfling
+Moneylender
+Fargrim
+Halfling
+Forester
+Adrik
+Halfling
+Cartographer
+Earil
+Halfling
+Spy
+Aelar
+Halfling
+Mercenary
+Track down thief
+Spring a bandit from jail
+Infiltrate party
+Bandits on the road
+Rescue noble
+Eliminate enemy soldiers
+Stolen amulet
+Rescue son
+Deal with body
+Cursed ring
+true
+true
+24
+28
+Moss Rock Cavern
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+true
+true
+24
+31
+Bandits' Cave
+Githzerai
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Caranya
+Githzerai
+Hunter
+Shen
+Githzerai
+Smuggler
+Amakos
+Githzerai
+Farmer
+Errandil
+Githzerai
+Soldier
+Khash-Ti
+Githzerai
+Builder
+Childghostmonster in well
+Take this key and unlock this tomb
+Mysterious lights in a marsh – big fireflies
+Monsters raiding farm
+Kill the monster
+Lost armour
+Enchanted mirror – later on meet shadowy copies of themselves
+Disease
+Reinforce the walls
+Eliminate opposing merchant
+true
+true
+24
+41
+Silver Mine
+Human
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Insburn
+Human
+Herbalist
+Amring
+Human
+Blacksmith
+Aren
+Human
+Wizard
+Seccair
+Human
+Builder
+Arryn
+Human
+Builder
+Escort merchant
+Spring a bandit from jail
+Escort badguy to his trial
+Escort badguy to his trial
+Lost amulet
+Deal with body
+Animals in a certain area are becoming mutated
+Monsters raiding farm
+Smuggle assassin into city
+Lost amulet
+true
+true
+24
+44
+Bandits' Cave
+Dwarf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ballor
+Dwarf
+Sailor
+Halyne
+Dwarf
+Gravedigger
+Selene
+Dwarf
+Cook
+Thog
+Dwarf
+Wizard
+Amakos
+Dwarf
+Gardener
+Painter/Warlock is trapping people in his painting, must enter painting to destroy the magic source
+Carnivorous plants are attacking a village
+Kidnapped children
+Smuggle assassin into city
+Monsters in city tunnels
+Rescue cleric from other sect
+Assassin on road – poisons Pcs
+Monster wandering in the forest
+Escort merchant
+Escort badguy to his trial
+true
+true
+24
+52
+Hunters' Camp
+Eladrin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Arkved
+Eladrin
+Servant
+Menedar
+Eladrin
+Smuggler
+Aldruhn
+Eladrin
+Emissary
+Hald
+Eladrin
+Mercenary
+Burkil
+Eladrin
+Builder
+Deal with body
+Sickness is spreading through city, need certain ingredients
+Infiltrate party
+Phantom ship sails down the river
+Lost armour
+Animals in a certain area are becoming mutated
+Investigate magical ruins
+Rescue cleric from other sect
+Take this key and unlock this tomb
+Wizard has accidentally created a portal and been sucked into it
+true
+true
+24
+55
+Travellers' Camp
+Goliath
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kulber
+Goliath
+Hunter
+Ballor
+Goliath
+Cartographer
+Hindaril
+Goliath
+Tanner
+Taris
+Goliath
+Cleric
+Naira
+Goliath
+Apothecarist
+Rescue noble
+Stalked by Kobolds
+Escaped monster from noble's menagerie
+Rumours of weird summoning circle outside city
+Escaped monster from noble's menagerie
+Deal with body
+Spring a bandit from jail
+Intercept cultist army
+Assassin on road – poisons Pcs
+Beggar on road
+true
+true
+25
+2
+Oninsford
+Eladrin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Seridur
+Eladrin
+Moneylender
+Adara
+Eladrin
+Carpenter
+Banes
+Goliath
+Soldier
+Bat
+Human
+Farmer
+Olden
+Human
+Farmer
+Monsters in city tunnels
+Infested mine
+Mysterious lights in a marsh – big fireflies
+Arrested for no reason, forced to fight in the gladiator arena
+Mysterious door has appeared in the middle of the city
+Deal with body
+Intercept cultist army
+Disease
+Sickness is spreading through city, need certain ingredients
+Carnivorous plants are attacking a village
+false
+true
+25
+19
+Skaalban
+Human
+Assassins' Guild, Wizard's Tower, Mercenary Outpost
+Dragon Egg
+Grungy
+Medium
+Thador
+Tiefling
+Grumpy Goliath
+Wealthy
+Small
+Gerrick
+Tiefling
+Blunted Blade
+Rough
+Medium
+Tosh Raka
+Half-Orc
+Six Swords
+Grungy
+Large
+Aerin
+Dwarf
+Council - Dwarf/Human
+Viistra
+Human
+Poacher
+Olden
+Human
+Gardener
+Kitarra
+Human
+Candlestickmaker
+Havandar
+Dragonborn
+Herbalist
+Akra
+Goliath
+Cartographer
+Infiltrate party
+Hear strange chanting in ruins
+Lost sword
+Reinforce the walls
+Smuggle moonsugar into city
+Desecrated temple
+PC being hunted as vengeance
+Tombs are being robbed
+Take this key and unlock this tomb
+Assassin – wrong target
+false
+true
+25
+22
+Oninsford
+Halfling
+
+Stabbed Goblin
+Wealthy
+Medium
+Illendem
+Elf
+Dead Man
+Wealthy
+Large
+Vitol
+Eladrin
+
+
+
+
+
+
+
+
+
+
+
+Terane
+Halfling
+Smuggler
+Satine
+Halfling
+Emissary
+Noss
+Elf
+Mercenary
+Nalicoth
+Human
+Gardener
+Eberk
+Eladrin
+Poacher
+Stalked by Kobolds
+Sickness is spreading through city, need certain ingredients
+Infested mine
+Sickness is spreading through city, need certain ingredients
+Sickness is spreading through city, need certain ingredients
+Kill the monster
+Reinforce the walls
+Monsters raiding farm
+Spring a bandit from jail
+Animals in a certain area are becoming mutated
+false
+true
+25
+38
+Winterhaven
+Dwarf
+
+Grumpy Goliath
+Rough
+Small
+Dolwain
+Gnome
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Iados
+Dwarf
+Poacher
+Thoradin
+Dwarf
+Soldier
+Endring
+Human
+Prisoner
+Savos
+Elf
+Banker
+Barkash
+Half-Orc
+Gravedigger
+Assassin – wrong target
+Bandits on the road
+Escort noble
+Smuggle moonsugar into city
+Smuggle skooma into city
+Tombs are being robbed
+Painter/Warlock is trapping people in his painting, must enter painting to destroy the magic source
+Take this key and unlock this tomb
+Discover source of power in ruins
+Reinforce the walls
+false
+true
+25
+41
+Urasek
+Dwarf
+Hospital
+Dragon Egg
+Rough
+Large
+Morthos
+Elf
+Three-Legged Stool
+Rough
+Small
+Olorin
+Dwarf
+
+
+
+
+
+
+
+
+
+
+Baron(ess) Thadon
+Nerevar
+Dwarf
+Soldier
+Kildrak
+Dwarf
+Moneylender
+Ballor
+Dwarf
+Banker
+Medrash
+Githzerai
+Cartographer
+Astine
+Gnome
+Soldier
+Wizard has accidentally created a portal and been sucked into it
+Smuggle skooma into city
+Bandit sprung from jail
+Eliminate opposing merchant
+Infiltrate party
+Smuggle assassin into city
+Eliminate enemy soldiers
+Mysterious door has appeared in the middle of the city
+Desecrated temple
+Eliminate opposing merchant
+false
+true
+25
+42
+Shrine to Corellon
+Halfling
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ivgrizt
+Halfling
+Follower
+Keltharion
+Halfling
+Follower
+Insburn
+Halfling
+Follower
+Ormil
+Halfling
+Follower
+Mithas
+Halfling
+Follower
+Assassin on road – poisons Pcs
+Escort merchant
+Bandits on the road
+Escaped monster from noble's menagerie
+Eliminate enemy soldiers
+Smuggle assassin into city
+Assassin – wrong target
+Discover source of power in ruins
+Discover source of power in ruins
+Hear strange chanting in graveyard
+true
+true
+26
+6
+Lizardmarsh
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+true
+true
+26
+25
+Echo Mine
+Half-Orc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Satine
+Half-Orc
+Servant
+Kara
+Half-Orc
+Beggar
+Ballor
+Half-Orc
+Banker
+Tarris
+Half-Orc
+Prisoner
+Agarond
+Half-Orc
+Forester
+Mysterious lights in a marsh – big fireflies
+Prison door has been sealed somehow
+Intercept cultist army
+Monster wandering in the forest
+Hear strange chanting in graveyard
+Kidnapped children
+Infested mine
+Spring a bandit from jail
+Smuggle moonsugar into city
+Reinforce the walls
+true
+true
+26
+28
+Cropsford
+Human
+
+Haunted Frog
+Wealthy
+Medium
+Arvyn
+Halfling
+Shipwreck
+Wealthy
+Small
+Kathutet
+Dragonborn
+
+
+
+
+
+
+
+
+
+
+
+Seccair
+Human
+Carpenter
+Maenlorn
+Human
+Hunter
+Athellor
+Human
+Prisoner
+Golth
+Human
+Fruitier
+Velara
+Dwarf
+Farmer
+Track down vampire – turns out everyone in target village is a vampire
+Rescue cleric from other sect
+Kidnapped children
+Escort noble
+Rescue merchent
+Poisoned well
+Smuggle skooma into city
+Track down vampire – turns out everyone in target village is a vampire
+Beggar on road
+Lost armour
+false
+true
+26
+29
+Shrine to Erathis
+Human
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sim
+Human
+Follower
+Sorris
+Human
+Follower
+Kathutet
+Human
+Follower
+Faulgor
+Human
+Follower
+Astate
+Human
+Follower
+Monster wandering in the forest
+Lost dagger
+Stalked by Kobolds
+Track down thief
+Rumours of weird summoning circle outside city
+Assassin murders the NPC
+Beggar on road
+Escort badguy to his trial
+Track down thief
+Stolen sword
+true
+true
+26
+42
+Hunters' Camp
+Dwarf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Torren
+Dwarf
+Brewer
+Olorin
+Dwarf
+Gravedigger
+Teria
+Dwarf
+Tanner
+Terrus
+Dwarf
+Spy
+Harbrek
+Dwarf
+Shoemaker
+Lost dagger
+Deal with body
+Arrested for no reason, forced to fight in the gladiator arena
+Wizard has accidentally created a portal and been sucked into it
+Animals in a certain area are becoming mutated
+Infiltrate party
+Investigate magical ruins
+Monster wandering in the forest
+PC being hunted as vengeance
+Spring a bandit from jail
+true
+true
+26
+47
+Stonebridge
+Human
+University, Hospital, Thieves' Guild, Wizard's Tower
+Murdered King
+Grungy
+Medium
+Ballor
+Elf
+Dead Man
+Wealthy
+Small
+Allimir
+Half-Orc
+Wolf's Head
+Grungy
+Large
+Fargrim
+Goliath
+Wise Wizard
+Rough
+Medium
+Tarvur
+Gnome
+Viscount(ess) Dolus
+Arlenfel
+Human
+Fisherman
+Sendekhar
+Human
+Blacksmith
+Tirasch
+Human
+Soldier
+Jetarren
+Gnome
+Fisherman
+Kardryn
+Half-Elf
+Smuggler
+Missing worker
+Assassin on road – poisons Pcs
+Eliminate opposing merchant
+Defend the city
+Stolen sword
+Eliminate enemy soldiers
+Monsters in city tunnels
+Cursed ring
+Take this key and unlock this tomb
+Childghostmonster in well
+false
+true
+27
+3
+Grayrock Cave
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+true
+true
+27
+8
+Maingate
+Human
+Assassins' Guild
+Shield of Gold
+Rough
+Large
+Arjhan
+Eladrin
+Tall Tree
+Wealthy
+Large
+Locuur
+Gnome
+
+
+
+
+
+
+
+
+
+
+Lord/Lady Tirion
+Nerevar
+Human
+Cartographer
+Ormil
+Human
+Forester
+Selene
+Human
+Moneylender
+Alain
+Gnome
+Poacher
+Astine
+Dwarf
+Cleric
+Mysterious door has appeared in the middle of the city
+Monsters in city tunnels
+Bandit sprung from jail
+Arrested for no reason, forced to fight in the gladiator arena
+Raiding mercenaries
+Lost amulet
+Escort noble
+Track down vampire – turns out everyone in target village is a vampire
+Find the key to this treasure chest
+Lost amulet
+false
+true
+27
+31
+Bandits' Camp
+Human
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Loro
+Human
+Priest
+Kelen
+Human
+Wizard
+Faulgor
+Human
+Smuggler
+Athrelor
+Human
+Gravedigger
+Baenlin
+Human
+Smuggler
+Assassin murders the NPC
+Smuggle assassin into city
+Enchanted mirror – later on meet shadowy copies of themselves
+Infiltrate party
+Discover source of power in ruins
+Hear strange chanting in graveyard
+Fog is spreading over a city, the houses that it touches are mysteriously empty
+Assassin murders the NPC
+Hidden tunnel in house
+Defend the city
+true
+true
+27
+32
+Farm
+Human
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Locuur
+Human
+Smuggler
+Kitarra
+Human
+Spy
+Donaar
+Human
+Builder
+Locuur
+Human
+Bowyer
+Banes
+Human
+Moneylender
+Carnivorous plants are attacking a village
+Mysterious door has appeared in the middle of the city
+Beggar on road
+Monsters in city tunnels
+Eliminate opposing merchant
+Stolen amulet
+Bandits on the road
+Escort badguy to his trial
+Stalked by Kobolds
+PC being hunted as vengeance
+true
+true
+27
+34
+Knell
+Half-Orc
+
+Green Grass
+Rough
+Large
+Ocato
+Half-Elf
+Deadly Drow
+Grungy
+Large
+Amnon
+Dragonborn
+
+
+
+
+
+
+
+
+
+
+
+Falcar
+Half-Orc
+Beggar
+Folgrim
+Half-Orc
+Smuggler
+Selene
+Halfling
+Doctor
+Eberk
+Gnome
+Mercenary
+Bralion
+Dragonborn
+Forester
+Infested mine
+Eliminate opposing merchant
+Eliminate enemy soldiers
+Defend the city
+Infiltrate party
+Infested mine
+PC being hunted as vengeance
+Find the key to this treasure chest
+Desecrated temple
+Rescue daughter
+false
+true
+27
+51
+Gold Mine
+Dwarf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Karanjul
+Dwarf
+Brewer
+Aculdor
+Dwarf
+Cleric
+Keltharion
+Dwarf
+Herbalist
+Varis
+Dwarf
+Cleric
+Iados
+Dwarf
+Builder
+Escort badguy to his trial
+Beggar on road
+Smuggle skooma into city
+Arrested for no reason, forced to fight in the gladiator arena
+Rescue daughter
+Stolen sword
+Escaped monster from noble's menagerie
+Monster wandering in the forest
+Assassin
+Rescue merchent
+true
+true
+27
+55
+Corrain
+Human
+Temple of Melora, Hunters' Guild
+Elder Eladrin
+Grungy
+Large
+Cingor
+Dwarf
+Fat Friar
+Wealthy
+Small
+Mankar
+Goliath
+Mangy Minotaur
+Grungy
+Medium
+Allimir
+Elf
+Big Bear
+Rough
+Small
+Estoril
+Githzerai
+Count(ess) Elante
+Ghesh
+Human
+Emissary
+Adrik
+Human
+Doctor
+Ormil
+Human
+Sailor
+Banes
+Half-Elf
+Servant
+Adaves
+Dwarf
+Cleric
+Smuggle skooma into city
+Rescue merchent
+Everyone is having nightmares
+Animals in a certain area are becoming mutated
+Track down vampire – turns out everyone in target village is a vampire
+Find the key to this treasure chest
+Lost axe
+Eliminate enemy soldiers
+Assassin
+Reinforce the walls
+false
+true
+28
+17
+Hillcastle
+Dragonborn
+Wizard's Tower
+Drunken Dwarf
+Rough
+Small
+Ballor
+Human
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Harbrek
+Mastrius
+Dragonborn
+Cartographer
+Faulgor
+Dragonborn
+Spy
+Ayalea
+Dragonborn
+Gravedigger
+Gharen
+Dragonborn
+Carpenter
+Mithas
+Minotaur
+Beggar
+Rescue son
+Escort merchant
+Prison door has been sealed somehow
+Stolen amulet
+Lost axe
+Childghostmonster in well
+Infiltrate party
+Tombs are being robbed
+Smuggle moonsugar into city
+Animals in a certain area are becoming mutated
+false
+true
+28
+36
+Dirich
+Human
+
+Cooked Cat
+Rough
+Large
+Kora
+Eladrin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mendel
+Human
+Apothecarist
+Teres
+Human
+Builder
+Anhaedra
+Githzerai
+Emissary
+Amnon
+Dragonborn
+Gravedigger
+Carwen
+Dragonborn
+Smuggler
+Missing worker
+Track down thief
+Missing worker
+Cursed ring
+Assassin on road – poisons Pcs
+Stolen amulet
+Escaped monster from noble's menagerie
+Carnivorous plants are attacking a village
+Assassin – wrong target
+Kidnapped children
+false
+true
+28
+38
+Howling Halls
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+true
+true
+28
+42
+Echo Mine
+Human
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Helende
+Human
+Apothecarist
+Mal
+Human
+Smuggler
+Venna
+Human
+Fisherman
+Armion
+Human
+Prisoner
+Ananaren
+Human
+Clothier
+Wizard has accidentally created a portal and been sucked into it
+Assassin murders the NPC
+Escort noble
+Track down thief
+Infested mine
+Lost armour
+Smuggle moonsugar into city
+Monster wandering in the forest
+Fog is spreading over a city, the houses that it touches are mysteriously empty
+Rescue son
+true
+true
+28
+59
+Hunters' Camp
+Goliath
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Errandil
+Goliath
+Doctor
+Illmiril
+Goliath
+Gardener
+Athragar
+Goliath
+Cook
+Tanara
+Goliath
+Herbalist
+Sevran
+Goliath
+Architect
+Beggar on road
+Rumours of weird summoning circle outside city
+Escort noble
+Intercept cultist army
+Disease
+Deliver a message – fastest way is through danger
+Cursed ring
+Arrested for no reason, forced to fight in the gladiator arena
+Assassin on road – poisons Pcs
+Monster wandering in the forest
+true
+true
+29
+4
+Shrine to Lolth
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+true
+true
+29
+11
+Gold Mine
+Goliath
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tenel
+Goliath
+Banker
+Ulandra
+Goliath
+Fruitier
+Adara
+Goliath
+Mercenary
+Indoril
+Goliath
+Prisoner
+Bat
+Goliath
+Sailor
+Deal with body
+Eliminate enemy soldiers
+Rescue son
+Deliver a message – fastest way is through danger
+Assassin on road – poisons Pcs
+Monsters raiding farm
+Rescue noble
+Sickness is spreading through city, need certain ingredients
+Smuggle skooma into city
+Phantom ship sails down the river
+true
+true
+29
+24
+Northfort
+Minotaur
+University
+Broken Bell
+Wealthy
+Small
+Calindil
+Gnome
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Seculdor
+Keltharion
+Minotaur
+Tanner
+Tares
+Minotaur
+Doctor
+Amragor
+Minotaur
+Shoemaker
+Vislei
+Minotaur
+Architect
+Tharn
+Eladrin
+Priest
+Find the key to this treasure chest
+Smuggle assassin into city
+Monsters raiding farm
+Smuggle skooma into city
+Assassin – wrong target
+Fog is spreading over a city, the houses that it touches are mysteriously empty
+Deliver a message – fastest way is through danger
+Animals in a certain area are becoming mutated
+Lost axe
+Track down vampire – turns out everyone in target village is a vampire
+false
+true
+29
+28
+Toadstool Cave
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+true
+true
+29
+29
+Fort Bulwark
+Tiefling
+Merchants' Guild
+Seven Serpents
+Rough
+Medium
+Balasar
+Human
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ulandra
+Cingor
+Tiefling
+Blacksmith
+Meldor
+Tiefling
+Cartographer
+Voryn
+Tiefling
+Tanner
+Mathis
+Tiefling
+Priest
+Mastrius
+Half-Elf
+Emissary
+Assassin on road – poisons Pcs
+Monsters in city tunnels
+Escort noble
+Bandits on the road
+Spring a bandit from jail
+Rumours of weird summoning circle outside city
+Rescue cleric from other sect
+Lost axe
+Lost amulet
+Missing worker
+false
+true
+29
+31
+Shattered Cliffs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+true
+true
+29
+47
+Shadowstone Cave
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+true
+true

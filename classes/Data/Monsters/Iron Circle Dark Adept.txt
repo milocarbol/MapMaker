@@ -1,0 +1,63 @@
+3
+150
+Normal
+Controller
+2
+Normal
+46
+17
+14
+14
+16
+6
+13
+14
+12
+15
+18
+13
+Wisdom
+Constitution
+Intelligence
+Wisdom
+8
+6
+4
+//skills//
+Arcana
+Religion
+//attack powers//
+Dark Dagger
+Standard
+At-will
+0
+Melee
+0
+1
+6
+Reflex
+2
+d4
+4
+Fire
+Slide target 3
+Fiery Tendrils
+Standard
+At-will
+0
+Burst
+1
+10
+6
+Reflex
+1
+d6
+6
+Fire
+Target is slowed and grants CA till end of DA's next turn
+//other powers//
+Dark Imperative
+Minor
+Recharge
+1+
+1 ally within 5 slides 3 and gains 10 tmp HP and +3 tmp dmg

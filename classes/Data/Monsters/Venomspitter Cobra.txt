@@ -1,0 +1,58 @@
+3
+150
+Normal
+Artillery
+4
+Low-light Vision
+38
+15
+15
+16
+15
+8
+10
+14
+17
+10
+10
+14
+Dexterity
+Constitution
+Dexterity
+Charisma
+10
+8
+6
+//skills//
+Athletics
+Stealth
+//attack powers//
+Venom Spit
+Standard
+At-will
+0
+Ranged
+0
+10
+8
+Reflex
+1
+d8
+8
+Poison
+Ongoing Poison damage 5
+Bite
+Standard
+At-will
+0
+Melee
+0
+2
+10
+AC
+1
+d6
+5
+Normal
+Ongoing Poison 5
+//other powers//

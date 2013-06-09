@@ -1,0 +1,85 @@
+10
+500
+Normal
+Brute
+5
+Low-light Vision
+131
+22
+23
+22
+22
+10
+10
+21
+10
+18
+18
+10
+Constitution
+Constitution
+Intelligence
+Wisdom
+13
+11
+9
+//skills//
+Athletics
+Insight
+History
+Endurance
+Perception
+//attack powers//
+Fire Breath
+Standard
+Recharge
+5+
+Close Blast
+5
+0
+9
+Reflex
+2
+d8
+9
+Fire
+A blast of fire surges forth, engulfing all in its path
+Claw
+Standard
+At-will
+0
+Melee
+0
+1
+13
+AC
+2
+d8
+9
+Normal
+Hit: The dragon makes a second Claw attack with a -2 penalty
+Bite
+Standard
+At-will
+0
+Melee
+0
+1
+13
+AC
+2
+d8
+13
+Normal
+Aaaand chomp.
+//other powers//
+Flight
+Move
+At-will
+0
+The dragon Flies up to twice its speed
+Swooping Attack
+Move
+At-will
+0
+The dragon uses Flight and may make a claw attack at any time
